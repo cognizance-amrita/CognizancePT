@@ -31,3 +31,155 @@ author: Author - Abhinandhan S
 #### GitHub tracks changes in a changelog, so you can know exactly what is changed each time. This feature is especially helpful for looking back in time and quickly identifying changes a collaborator made.
 
 <br>
+
+<span style="color: #FA4EAB">**NOTE: The version tracking on GitHub is similar to working on a Google Doc with a team. You can see who made changes and when they made them, going back to the project's creation.**</span>
+
+<br>
+
+<hr>
+
+## Open-Source Benefits
+#### The projects on GitHub are a form of open-source code. Adopted by government agencies such as the Department of Defense, open-source code essentially allows anyone to review and propose changes to the code. <br><br> Open-source projects tend to be more flexible because they respond more rapidly to market demands. Closed-source programs might exist in a bubble while trying to convince a target market of its value, as opposed to being genuinely responsive. GitHub provides a community where programmers are constantly working to solve current problems and making solutions available to the public.
+
+<br>
+
+<hr>
+
+## Find Talent
+#### Because of the breadth of the GitHub community, you can sometimes find programmers working on similar projects or who have skills, experiences, or a vision that offers a good fit for your organization. By being a part of the community, you can identify these people, work with them, and possibly even bring them on board to work for you.
+
+<br>
+
+<hr>
+
+## Develop and Implement a Management Strategy
+#### You likely have multiple people working on projects at the same time, and many of them may be in different locations—possibly even in different countries. By using a version control system like GitHub, collaborators can work together without stepping on each others’ toes. <br><br> For example, you don’t want one collaborator addressing a problem in a way that conflicts with another collaborator’s approach. GitHub makes it easy for everyone to know and see what everyone else is doing, and projects can be managed in whatever way is best for your staff and your organization’s needs.
+
+<br>
+
+<hr>
+
+## Creating an GitHub account
+1. Go to [<span style="color: #FE83C6">GitHub</span>](https://github.com/join).
+2. Sign up for GitHub.
+
+*Video Reference*: [<span style="color: #FE83C6">Setup GitHub Account</span>](https://youtu.be/XaMiHHu_rb4)
+
+<br>
+
+<hr>
+
+## VCS-(Version Control System)
+#### Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. <br><br>Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.<br><br>To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control.<br><br>A version control system or VCS, also know as revision control or source control system, is a software utility that tracks and manages changes to a filesystem. … When operating at the filesystem level, a VCS will track the addition, deletion, and modification actions applied to files and directories.
+
+<br>
+
+<hr>
+
+## Use of Version Control System
+#### <span style="color: #DD4A48">A Repository</span>: It can be thought as a database of changes. It contains all the edits and historical versions (snapshots) of the project. <br><br> <span style="color: #DD4A48">Copy of Work (sometimes called as checkout)</span>: It is the personal copy of all the files in a project. You can edit to this copy, without affecting the work of others and you can finally commit your changes to a repository when you are done making your changes.
+
+<br>
+
+<hr>
+
+## Types of Version Control Systems:
+- Local Version Control Systems
+- Centralized Version Control Systems
+- Distributed Version Control Systems
+
+<br>
+
+<img src="https://cognizance2020.github.io/post/download.png" alt="VCS" style="width:500px;"/>
+
+<br>
+
+<hr>
+
+## Install Git In Your desktop
+#### Kindly see the video and install git bash in your system and set your username and user-email in the Git Bash.
+*Video Reference*: [<span style="color: #FE83C6">Installing Git</span>](https://www.youtube.com/watch?v=YXXp_ht4pwQ&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg&index=6)
+
+
+<br>
+
+<hr>
+
+## Git operations
+#### To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop or Git Kraken.
+
+<br>
+
+**<span style="color: #FF6363; font-size: 1rem;">Basic Operations</span>**
+#### The following is a summary of basic git operations:
+**<span style="color: #B958A5">git add</span>**
+```
+Puts current working files into the stage.
+```
+**<span style="color: #B958A5">git checkout</span>**
+```
+Replaces the current working files with files from a branch.
+```
+**<span style="color: #B958A5">git checkout -b</span>**
+```
+Creates a new local branch from the current branch's tip.
+```
+**<span style="color: #B958A5">git clone</span>**
+```
+Clone an existing repository into a new directory.
+```
+**<span style="color: #B958A5">git commit</span>**
+```
+Commits staged changes to a local branch.
+```
+**<span style="color: #B958A5">git commit -a</span>**
+```
+Commits all modified files to a local branch(shorthand for "git add" followed by "git commit" for each modified file)
+```
+**<span style="color: #B958A5">git fetch</span>**
+```
+Downloads changes from a remote repository into the local clone.
+```
+**<span style="color: #B958A5">git merge</span>**
+```
+Merges files from a given branch into the current branch.
+```
+**<span style="color: #B958A5">git pull</span>**
+```
+Fetches remote changes on the current branch into the local clone, and merges them into the current working files.
+```
+**<span style="color: #B958A5">git push</span>**
+```
+Uploads changes from all local branches to the respective remote repositories.
+```
+**<span style="color: #B958A5">git reset</span>**
+```
+Makes the current branch point to some specific revision or branch
+```
+**<span style="color: #B958A5">git rebase</span>**
+```
+Integrates changes from one branch into another. It is an alternative to the better known "merge" command.
+```
+**<span style="color: #B958A5">git fork</span>**
+```
+Fork will create a copy of the repository in your GitHub account so that you can make changes to the project.
+```
+
+<br>
+
+*Video Reference*: [<span style="color: #FE83C6">Basic Operation</span>](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
+
+<br>
+
+<hr>
+
+# Task
+<span style="color: #ECB390; font-weight: bold;">1. Create a repository with name “Cognizance” on GitHub using Git Bash.
+2. Create a folder with name “Task-1” in the repository and perform the Git operations using Git Bash.
+3. Upload the screenshot of the git bash using This command in your computer.</span> <br> 
+```bash
+git config --list --show-
+``` 
+<span style="color: #ECB390; font-weight: bold;">4. Take a screenshot of all the Git operations you performed and compile it in a single PDF and upload it in “Task-1” folder this PDF Should Also Contain the screenshot of the command mentioned in point 3.</span>
+
+<br>
