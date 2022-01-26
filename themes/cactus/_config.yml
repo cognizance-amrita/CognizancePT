@@ -156,7 +156,7 @@ utterances:
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
-  enabled: true
+  enabled: false
   id: UA-218244943-1
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
