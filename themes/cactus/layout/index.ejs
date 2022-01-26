@@ -1,7 +1,7 @@
 
 
 <section id="writing">
-    <span class="h1"><a href="<%- url_for(theme.nav.articles) %>"><%= __('index.articles') %></a></span>
+    <span class="h1"><%= __('index.articles') %></span>
     <% if (theme.tags_overview && site.tags.length) { %>
     <span class="h2"><%= __('index.topics') %></span>
     <span class="widget tagcloud">
@@ -18,7 +18,7 @@
       <% } %>
       <% show_posts.each(function(post, i){ %>
         <li class="post-item">
-          <%- partial('_partial/post/date', { post: post, class_name: 'meta' }) %>
+          <!-- <%- partial('_partial/post/date', { post: post, class_name: 'meta' }) %> -->
           <span><%- partial('_partial/post/title', { post: post, index: true, class_name: '' }) %></span>
         </li>
       <% }); %>

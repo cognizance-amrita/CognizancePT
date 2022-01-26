@@ -14,9 +14,11 @@ direction: ltr
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
 nav:
-   Home: /
+   Tasks: /
    About: /About/
-   Tasks: /Tasks/
+
+   
+   
 #   articles: /archives/
   #  projects: https://github.com/cognizance-amrita
 
