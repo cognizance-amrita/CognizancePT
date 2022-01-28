@@ -71,3 +71,6 @@ author: Author
 - [<span style="color: #FE83C6"> Bash Script Tutorial</span>](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [<span style="color: #FE83C6">Bash Script Examples](https://linuxhint.com/30_bash_script_examples/)
 - [<span style="color: #FE83C6"> Bash Scripts for Automation</span>](https://www.youtube.com/watch?app=desktop&v=PPQ8m8xQAs8)
+
+<br>
+<br>
