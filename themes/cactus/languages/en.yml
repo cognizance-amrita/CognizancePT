@@ -25,8 +25,8 @@ index:
 
 post:
   desktop:
-    previous: Previous post
-    next: Next post
+    previous: Previous Task
+    next: Next Task
     back_to_top: Back to top
     share: Share post
   mobile:
