@@ -2,6 +2,7 @@
 title: TASK 1 [GIT AND GITHUB]
 tags:
 author: Author - Abhinandhan S
+date: 2022-01-29
 ---
 
 > Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project. GitHub is an open-source repository hosting service, sort of like a cloud for code. It hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration. Other GitHub users can review your code and propose changes.
