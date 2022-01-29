@@ -16,7 +16,7 @@ direction: ltr
 nav:
    Home: /
    About: /About/
-
+   Basics: /Basics/ 
    
    
 #   articles: /archives/
