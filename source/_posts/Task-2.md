@@ -10,7 +10,7 @@ date: 2022-01-29
 <br>
 <b><span style="color: #FF6363; font-size: 1rem;">PART 1:</b>
 
-#### You are provided with a zip file containing flags hidden all over it. You need to find the flags to earn points.
+#### you are provided with a zip file which has numerous flags hidden inside it. You need to find the flags to earn points.
 > The flag format: <span style="color: lightgreen;">&ensp;flag{Th1s\_i5\_h0w\_@\_fl4g\_look5}.
 
 <br>
