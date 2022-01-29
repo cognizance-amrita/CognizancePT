@@ -11,7 +11,7 @@ date: 2022-01-29
 
 <b><span style="color: #FF6363; font-size: 1rem;">What is a virtual machine?</b>
 
-A virtual machine is nothing but a computer that runs inside a computer. It has access to CPU, memory, even the internet. But it cannot access USB devices or other hardware resources.
+A virtual machine is nothing but a computer that runs inside a computer. It has access to CPU, memory and even the internet. But it cannot access USB devices or other hardware resources.
 
 VMs are generally used in :
 
@@ -20,11 +20,11 @@ VMs are generally used in :
 
 
 
-If the virtual machine is stored on a virtual disk, this is often referred to as a disk image. A disk image may contain the files for a virtual machine to boot, or, it can contain any other specific storage needs.
+If the virtual machine is stored on a virtual disk, it is often referred to as a disk image. A disk image may contain the files for a virtual machine to boot, or, it can contain any other specific storage needs.
 
 <br>
 
-<b><span style="color: #FF6363; font-size: 1rem;">How does Virtual Machine work?</b>
+<b><span style="color: #FF6363; font-size: 1rem;">How does a Virtual Machine work?</b>
 
 VMs work by the process called as Virtualization.  Virtualization is the process of running a virtual instance of a computer system in a layer abstracted from the actual hardware.
 
