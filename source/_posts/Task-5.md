@@ -1,8 +1,8 @@
 ---
-title: TASK 5 [ARTIFICIAL INTELLIGENCE]
+title: TASK 5 [PYTHON - EASY LVL]
 tags:
-author: Author - Rishabh Rajput
-date: 2022-01-29
+author: Author - Shandilyathithyaa  & RISHABH RAJPUT
+date: 2022-01-31
 ---
 ## Find the instructions given below for the task. This task consists of five questions on Python programming.
 
