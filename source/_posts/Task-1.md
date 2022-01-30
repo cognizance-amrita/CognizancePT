@@ -1,8 +1,8 @@
 ---
-title: TASK 1 [GIT AND GITHUB]
+title: TASK 1 [GIT & GITHUB]
 tags:
 author: Author - Abhinandhan S
-date: 2022-01-29
+date: 2022-01-31
 ---
 ## Creating an GitHub account
 1. Go to [<b><span style="color: #FE83C6">GitHub</span></b>](https://github.com/join).
