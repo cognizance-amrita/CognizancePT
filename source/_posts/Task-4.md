@@ -1,8 +1,8 @@
 ---
-title: TASK 4 [HTML & CSS]
+title: TASK 4 [WEB DEVELOPMENT]
 tags:
 author: Author - Mukesh K & Abhinandhan S
-date: 2022-01-29
+date: 2022-01-31
 ---
 
 ## This task is categorized into two sections. You are required to complete **any one of the sections** to proceed with the further tasks.
