@@ -1,76 +1,64 @@
-﻿---
-title: TASK 3 [CYBER SECURITY]
-author: Author
-    - Aghilan A & Dhanvinesh 
-date: 2022-01-29
 ---
+title: TASK 3 [WEBSITE DESIGNING]
+date: 2022-01-31
+author: Author - Abhinandhan S & Mukesh K
+tags:
+---
+## Adobe XD 
 
-## Installing any Linux distribution as a virtual machine
+#### Adobe XD Is A Powerful And Easy-To-Use Vector-Based Experience Design Platform, It Helps You Craft Prototypes That Look And Feel Like The Real Thing, So You Can Communicate Your Design Vision 
+
+<b> For More Information Visit </b> [<b><span style="color: #FE83C6">Adobe XD</span></b>](https://www.adobe.com/in/products/xd/learn/get-started/what-is-adobe-xd-used-for.html)
+
+<br> 
+
 <hr>
-<br>
 
-<b><span style="color: #FF6363; font-size: 1rem;">What is a virtual machine?</b>
+## Figma
 
-A virtual machine is nothing but a computer that runs inside a computer. It has access to CPU, memory and even the internet. But it cannot access USB devices or other hardware resources.
+#### Figma is a web-based graphics editing and user interface design app. You can use it to do all kinds of graphic design work from wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts, and everything in between.
 
-VMs are generally used in :
-
-- Server virtualization
-- Testing out virus infected software as it is separated from the host machine.
-
-
-
-If the virtual machine is stored on a virtual disk, it is often referred to as a disk image. A disk image may contain the files for a virtual machine to boot, or, it can contain any other specific storage needs.
+<b> Visit The Official Site </b> [<b><span style="color: #FE83C6">Figma</span></b>](https://www.figma.com/) 
 
 <br>
 
-<b><span style="color: #FF6363; font-size: 1rem;">How does a Virtual Machine work?</b>
-
-VMs work by the process called as Virtualization.  Virtualization is the process of running a virtual instance of a computer system in a layer abstracted from the actual hardware.
-
-Most commonly, it refers to running multiple operating systems on a computer system simultaneously.
-
-To the applications running on top of the virtualized machine, it can appear as if they are on their own dedicated machine, where the operating system, libraries, and other programs are unique to the guest virtualized system and unconnected to the host operating system which sits below it.
-
-<br>
-
-<b><span style="color: #FF6363; font-size: 1rem;">VM advantages:</b>
-
-- Lower costs
-- Easier disaster recovery
-- Easier testing
-- Quicker backups
-- Improved productivity
-
-<br>
 <hr>
+
+## How To Install These Softwares?
+
+#### 1. Adobe XD
+
+- <b> Download the latest version of Adobe XD from </b> [<b><span      style="color: #FE83C6">Adobe XD</span></b>](https://www.adobe.com/sg/   products/xd/switcher.html)
+- <b> Close The Pop-Up Displayed For Selecting The Regional Site, Without Selecting Any Of Them</b>
+- <b> You'll Now Be Able To See A Download Option In The Navbar, Click It And It'll Redirect You To A Page Where You'll Be Able To Download The File And Install It</b>
+
 <br>
 
-## SUBMISSION:
-Submit the work you have done in the form of a PDF file with the screenshots inserted as a proof that you have installed successfully.
+<img src="/images/Adobe.png">
 
 <br>
+
+<b><span style="color: #FA4EAB; font-size: 1rem;"> Note: You Should Have An Adobe Account In-order To Access This Free Tool. But, You Shouldn't Login Before Downloading The .exe File, As Shown In The Above Pic</span></b>
+
+- <b>Once You Have Done Installing, Watch This Video </b> [<b><span style="color: #FE83C6">Adobe XD Basics</span></b>](https://www.youtube.com/watch?v=JttI6YpmPGI)
+
+<br>
+
+#### 2. Figma 
+- <b>There Are 2 Options To Use Figma</b>
+    1. <b> Download the latest version of Figma from </b> [<b><span      style="color: #FE83C6">Figma Downloads</span></b>](https://www.figma.com/downloads/)
+    2. <b> Use The Online Version By Creating An Account In </b> [<b><span      style="color: #FE83C6">Figma.com</span></b>](https://www.figma.com/)
+- <b> Once Decided, Installed, You Can Use Figma To Create A New Project, And Start Working On It, Watch This Video For Reference </b>[<b><span style="color: #FE83C6">Figma Basics</span></b>](https://www.youtube.com/watch?v=jk1T0CdLxwU)
+
+<br>
+
 <hr>
-<br>
 
-## RESOURCES:
+# TASK
 
-<b><span style="color: #FF6363; font-size: 1rem;">Virtual machine providers:</b>
+#### Design A Landing Page On Any Genre Using Either Figma Or Adobe XD.
+**Video Reference**: 
+- [<b><span style="color: #FE83C6">Use Figma To Create An Landing Page</span><b>](https://www.youtube.com/watch?v=NB1mn2YVF8Q)
+- [<b><span style="color: #FE83C6">Use Adobe XD In Creating A Landing Page</span><b>](https://www.youtube.com/watch?v=YxTngjYMufc)
 
-- [<span style="color: #FE83C6">VirtualBox](https://download.virtualbox.org/virtualbox/6.1.32/VirtualBox-6.1.32-149290-Win.exe) 
-- [<span style="color: #FE83C6">VMware Workstation](https://www.vmware.com/go/getworkstation-win)
-
-<b><span style="color: #FF6363; font-size: 1rem;">Linux Distros:</b>
-
-- [<span style="color: #FE83C6">Ubuntu](https:\ubuntu.com\download\desktop\thank-you?version=20.04.3&architecture=amd64)
-- [<span style="color: #FE83C6">Kali Linux](https://www.kali.org/get-kali/)
-
-<b><span style="color: #FF6363; font-size: 1rem;">Guides:</b>
-
-- [<span style="color: #FE83C6">Ubuntu Installation Guide | VirtualBox](https://www.youtube.com/watch?v=x5MhydijWmc)
-- [<span style="color: #FE83C6">Ubuntu Installation Guide | VMware](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)
-- [<span style="color: #FE83C6">Kali Linux Installation Guide | VirtualBox](https://www.youtube.com/watch?v=FVmWMogGX4Q)
-- [<span style="color: #FE83C6">Kali Linux Installation Guide | VMware](https://www.shaileshjha.com/how-to-install-kali-linux-in-vmware-player-vmware-tools/)
-
-<br>
 <br>
