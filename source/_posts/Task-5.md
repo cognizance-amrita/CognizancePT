@@ -2,7 +2,7 @@
 title: TASK 5 [PYTHON - EASY LVL]
 tags:
 author: Author - Shandilyathithyaa  & RISHABH RAJPUT
-date: 2022-01-31
+date: 2022-02-02
 ---
 ## Find the instructions given below for the task. This task consists of five questions on Python programming.
 

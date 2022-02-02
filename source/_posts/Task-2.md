@@ -1,7 +1,7 @@
 ---
 title: TASK 2 [GENERAL PROGRAMMING]
 author: Author - Shandilyathithyaa
-date: 2022-01-31
+date: 2022-02-02
 ---
 
 <b><span style="color: #FF6363; font-size: 2rem;">Pseudo Code</style></b>
