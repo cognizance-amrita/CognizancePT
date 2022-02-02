@@ -26,7 +26,7 @@ Read the instructions given in the OverTheWire website properly and then find wh
 <br>
 
 <b><span style="color: #FF6363; font-size: 1.2rem;">TASK WEBSITE</span></b>
-- [OverTheWire](https://overthewire.org/wargames/bandit/)
+- [<b><span style="color: #FE83C6">OverTheWire</span></b>](https://overthewire.org/wargames/bandit/)
 
 <br>
 <br>
