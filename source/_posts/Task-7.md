@@ -6,12 +6,85 @@ date: 2022-01-31
 ---
 
 ## Find the instructions given below for the task. This task is divided into two parts
+<br>
 <hr>
 <br>
+
+<b><span style="color: #FF6363; font-size: 1.4rem;">Linux Commands</span></b>
+<br>
+
+Linux is an operating systems Kernel. Kernel facilitates the communication between hardware and software. Linux comes with CLI or the command line interface. CLI executes the commands that you enter. Ctrl+Alt+T to open the terminal and lets get started.
+
+<br>
+
+<b><span style="color: #FF6363; font-size: 1rem;">Why learning bash is necessary?</span></b>
+- Learning bash makes us more flexible
+- Command line skills help with building repeatable data processes in linux
+- Working with files are much easier
+- Doesn't consume much hardware resources to perform actions
+- As unix shell is everywhere (android, mac) the commands can be used in any unix based OS.
+
+<br>
+<hr>
+<br>
+
+<b><span style="color: #FF6363; font-size: 1rem;">Basic linux commands:</span></b>
+- `whoami` – displays the username
+- `hostname` – displays the hostname
+- `date` – displays the date
+- `time` – displays the time
+- `cal` – displays the calendar
+- `clear` – clears the terminal (shell)
+- `exit` – exits the bash shell
+- `pwd` – displays the present working directory
+- `ls` – displays all the files in the directory you are in
+- `cd` – change directory
+- `mkdir` – make new directory
+- `rmdir` – remove directory
+- `rm` – remove files
+- `touch` – create a file
+- `cp` – copy file
+- `mv` – move file
+- `find` – can find files
+- `locate` – locate a file in a linux system
+- `man` – manual page of a linux command
+- `echo` – print statement
+- `cat` – displays the contents of a file
+- `head` – top contents of a file
+- `tail` – bottom contents of a file
+- `grep` – displays for a particular string from the contents of a file if present
+- `diff` – compares the lines of two files
+- `sudo` – gives root privileges (super user do)
+- `df` – displays the available disk space
+- `du` – displays the disk usage
+- `zip, unzip` – to compress and extract zip archives
+- `tar` – to extract and compress tar files or tar.gz files
+- `chmod` – to change the file permissions
+- `apropos` – finds what command can we use for a process
+
+<br>
+<hr>
+<br>
+
+<b><span style="color: #FF6363; font-size: 1.4rem;">Instructions</span></b>
+<br>
+Try each and every commands in your virtual machine to understand how the commands work and then solve the below tasks. Use manual pages <span style="color: lightgreen;">(For example, to know about the command ls, type <b><u>man ls</u></b> to access the manual page)</span> or help <span style="color: lightgreen;">( For example, <b><u>[command] --help</u></b> )</span>. 
+<br>
+<br>
+
+> <span style="color: #FF6363; font-size: 1rem;">Optional:</span> <br> Try to install another ubuntu virtual machine or even you can use your host Windows OS. Use ssh command to establish a connection between them. Use scp command to transfer files between them. This can be useful in future or for your own use.
+
+<br>
+<hr>
+<br>
+
+<b><span style="color: #FF6363; font-size: 1.4rem;">TASKS</span></b>
+<br>
+
 <b><span style="color: #FF6363; font-size: 1rem;">PART 1:</b>
 
-#### you are provided with a zip file which has numerous flags hidden inside it. You need to find the flags to earn points.
-> The flag format: <span style="color: lightgreen;">&ensp;flag{Th1s\_i5\_h0w\_@\_fl4g\_look5}.
+#### You are provided with a zip file which has numerous flags hidden inside it. You need to find the flags to earn points.
+> The flag format: <span style="color: lightgreen;">&ensp;flag{Th1s\_i5\_h0w\_@\_fl4g\_look5}.</span>
 
 <br>
 
