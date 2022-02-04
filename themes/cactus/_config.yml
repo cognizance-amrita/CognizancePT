@@ -18,8 +18,6 @@ nav:
    About: /About/
    Basics: /Basics/ 
    Virtual Machines: /VIRTUAL-MACHINES/
-   
-#   articles: /archives/
   #  projects: https://github.com/cognizance-amrita
 
 
@@ -45,7 +43,7 @@ tags_overview: false
 posts_overview:
   show_all_posts: true
   post_count: 10
-  sort_updated: false
+  sort_updated: true
 
 # Customize the archive view.
 # Options:
@@ -53,7 +51,7 @@ posts_overview:
 # Note: this does not work together with pagination, since the pagination
 # plugin will sort pages by date of creation.
 archive:
-  sort_updated: false
+  sort_updated: true
 
 # Customize the article view.
 # Options:
