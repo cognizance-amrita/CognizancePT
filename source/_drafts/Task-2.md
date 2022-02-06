@@ -1,11 +1,12 @@
 ---
-title: TASK 2 [GENERAL PROGRAMMING]
-author: Author - Shandilyathithyaa
-date: 2022-02-04
+title: 'TASK 2 [GENERAL PROGRAMMING]'
 tags:
-    - General
-    - Programming
+  - General
+  - Programming
+author: Author - Shandilyathithyaa
+date: 2022-02-04 00:00:00
 ---
+
 
 <b><span style="color: #FF6363; font-size: 2rem;">Pseudo Code</style></b>
 
