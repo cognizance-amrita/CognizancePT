@@ -118,3 +118,12 @@ git config --list --show-
 <span style="color: #ECB390; font-weight: bold;">4. Take a screenshot of all the Git operations you performed and compile it in a single PDF and upload it in “Task-1” folder this PDF Should Also Contain the screenshot of the command mentioned in point 3.</span>
 
 <br>
+
+<hr>
+
+# Submission Link
+## Deadline: <b>13th Feb 2022 ; 18:00</b>
+[<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/pxGr2AaZb81DEqSD7)
+
+<br>
+
