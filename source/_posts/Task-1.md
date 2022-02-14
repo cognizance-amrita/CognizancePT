@@ -113,7 +113,7 @@ Fork will create a copy of the repository in your GitHub account so that you can
 2. Create a folder with name “Task-1” in the repository and perform the Git operations using Git Bash.
 3. Upload the screenshot of the git bash using This command in your computer.</span> <br> 
 ```bash
-git config --list --show-
+git config --list --show-origin
 ``` 
 <span style="color: #ECB390; font-weight: bold;">4. Take a screenshot of all the Git operations you performed and compile it in a single PDF and upload it in “Task-1” folder this PDF Should Also Contain the screenshot of the command mentioned in point 3.</span>
 
