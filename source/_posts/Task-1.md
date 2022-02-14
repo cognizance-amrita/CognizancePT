@@ -122,7 +122,7 @@ git config --list --show-
 <hr>
 
 # Submission Link
-## Deadline: <b>13th Feb 2022 ; 18:00</b>
+## Deadline: <b>15th Feb 2022 ; 11:00</b>
 [<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/pxGr2AaZb81DEqSD7)
 
 <br>
