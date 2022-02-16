@@ -102,21 +102,31 @@ __<span style="color: #FF6363; font-size: 1rem;">Problem-2</span>__
 ```
 <br>
 
-## Submission
-<span style="color: #ECB390; font-weight: bold;">1. In the repository  'Cognizance' which you created on GitHub for other tasks, create a folder named 'Task-4' in the repository.</span> <br> 
- 
-<span style="color: #ECB390; font-weight: bold;">2. Upload the pseudocodes written in .txt files as 'Problem1.txt' & 'Problem2.txt' and the flowcharts as png/jpg image files like 'Problem1.jpg' & 'Problem2.jpg' in the 'Task-4' folder.</span>
-
-<br>
 <hr>
 
 ## Resources
 
 [<span style="color: #FE83C6">Pseudo Code</span>](https://www.youtube.com/watch?v=preyTbKXDoQ)
-<br>
 
 [<span style="color: #FE83C6">Algorithm using Pseudocode and Flowchart</span>](https://www.youtube.com/watch?v=vOEN65nm4YU)
 
 <br>
+<hr>
+
+
+# Task
+
+<span style="color: #ECB390; font-weight: bold;">1. In the repository  'Cognizance' which you created on GitHub for other tasks, create a folder named 'Task-2'</span> <br> 
+ 
+<span style="color: #ECB390; font-weight: bold;">2. Upload the pseudocodes written in .txt files as 'Problem1.txt' & 'Problem2.txt' and the flowcharts as png/jpg image files like 'Problem1.jpg' & 'Problem2.jpg' in the 'Task-4' folder & Submit The GitHub Repo Link Just Like The Task-1 </span>
+
+<br>
 
 <hr>
+
+# Submission Link
+## Deadline: <b>17th Feb 2022 ; 23:00</b>
+#### <span style="color:#FF7272">The Submission Link Will Be Updated Shortly.</span>
+<!-- [<b><span style="color: #FE83C6">Task 2 Submission</b></span>](https://forms.gle/pxGr2AaZb81DEqSD7) -->
+
+<br>
