@@ -122,7 +122,7 @@ __<span style="color: #FF6363; font-size: 1rem;">Problem-2</span>__
 
 <span style="color: #ECB390; font-weight: bold;">1. In the repository  'Cognizance' which you created on GitHub for other tasks, create a folder named 'Task-2'</span> <br> 
  
-<span style="color: #ECB390; font-weight: bold;">2. Upload the pseudocodes written in .txt files as 'Problem1.txt' & 'Problem2.txt' and the flowcharts as png/jpg image files like 'Problem1.jpg' & 'Problem2.jpg' in the 'Task-4' folder & Submit The GitHub Repo Link Just Like The Task-1 </span>
+<span style="color: #ECB390; font-weight: bold;">2. Upload the pseudocodes written in .txt files as 'Problem1.txt' & 'Problem2.txt' and the flowcharts as png/jpg image files like 'Problem1.jpg' & 'Problem2.jpg' in the 'Task-2' folder & Submit The GitHub Repo Link Just Like The Task-1 </span>
 
 <br>
 
