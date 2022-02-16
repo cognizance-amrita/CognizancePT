@@ -40,22 +40,22 @@ To the applications running on top of the virtualized machine, it can appear as 
 
 ## RESOURCES:
 
-<b><span style="color: #FF6363; font-size: 1rem;">Virtual machine providers:</b>
+<b><span style="color: #FF6363; font-size: 1rem;">Virtual machine providers:</span></b>
 
-- [<span style="color: #FE83C6">VirtualBox](https://download.virtualbox.org/virtualbox/6.1.32/VirtualBox-6.1.32-149290-Win.exe) 
-- [<span style="color: #FE83C6">VMware Workstation](https://www.vmware.com/go/getworkstation-win)
+- [<b><span style="color: #FE83C6">VirtualBox</span></b>](https://download.virtualbox.org/virtualbox/6.1.32/VirtualBox-6.1.32-149290-Win.exe) 
+- [<b><span style="color: #FE83C6">VMware Workstation</span></b>](https://www.vmware.com/go/getworkstation-win)
 
-<b><span style="color: #FF6363; font-size: 1rem;">Linux Distros:</b>
+<b><span style="color: #FF6363; font-size: 1rem;">Linux Distros:</span></b>
 
-- [<span style="color: #FE83C6">Ubuntu](https:\ubuntu.com\download\desktop\thank-you?version=20.04.3&architecture=amd64)
-- [<span style="color: #FE83C6">Kali Linux](https://www.kali.org/get-kali/)
+- [<b><span style="color: #FE83C6">Ubuntu</span></b>](https:\ubuntu.com\download\desktop\thank-you?version=20.04.3&architecture=amd64)
+- [<b><span style="color: #FE83C6">Kali Linux</span></b>](https://www.kali.org/get-kali/)
 
-<b><span style="color: #FF6363; font-size: 1rem;">Guides:</b>
+<b><span style="color: #FF6363; font-size: 1rem;">Guides:</span></b>
 
-- [<span style="color: #FE83C6">Ubuntu Installation Guide | VirtualBox](https://www.youtube.com/watch?v=x5MhydijWmc)
-- [<span style="color: #FE83C6">Ubuntu Installation Guide | VMware](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)
-- [<span style="color: #FE83C6">Kali Linux Installation Guide | VirtualBox](https://www.youtube.com/watch?v=FVmWMogGX4Q)
-- [<span style="color: #FE83C6">Kali Linux Installation Guide | VMware](https://www.shaileshjha.com/how-to-install-kali-linux-in-vmware-player-vmware-tools/)
+- [<b><span style="color: #FE83C6">Ubuntu Installation Guide | VirtualBox</span></b>](https://www.youtube.com/watch?v=x5MhydijWmc)
+- [<b><span style="color: #FE83C6">Ubuntu Installation Guide | VMware</span></b>](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)
+- [<b><span style="color: #FE83C6">Kali Linux Installation Guide | VirtualBox</span></b>](https://www.youtube.com/watch?v=FVmWMogGX4Q)
+- [<b><span style="color: #FE83C6">Kali Linux Installation Guide | VMware</span></b>](https://www.shaileshjha.com/how-to-install-kali-linux-in-vmware-player-vmware-tools/)
 
 <br>
 <br>
