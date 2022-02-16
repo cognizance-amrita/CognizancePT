@@ -8,6 +8,7 @@ date: 2022-02-04 00:00:00
 ---
 
 
+
 <b><span style="color: #FF6363; font-size: 2rem;">Pseudo Code</style></b>
 
 #### Pseudocode is an informal language description that helps programmers to approach a problem and develop algorithms to solve it. It is written in the form of annotations and informative text written in plain English. It does not require any programming language syntax or any other strict constraints and thus it cannot be compiled or interpreted by the computer.
