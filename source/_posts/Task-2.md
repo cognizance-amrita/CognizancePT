@@ -41,18 +41,22 @@ if "2"
 * Don’t write the pseudo code in a complete programmatic manner. It is necessary to be simple to understand even for a layman or client, hence don’t incorporate too many technical terms.<br>
 
 <br>
+<hr>
+
 <b><span style="color: #FF6363; font-size: 2rem;">Flowchart</style></b>
 
 #### A flowchart is a type of diagram that represents a workflow or process. In programming, it is a graphical representation of an algorithm. Programmers often use it as a program-planning tool to solve a problem. It makes use of symbols which are connected among them to indicate the flow of information and processing. Flowchart has few symbols which can be considered as its basic syntax. Watch the videos in the resources to learn more about flowchart.
 <br>
+
 <hr>
-<br>
 
 ## Write Pseudo code and Flowchart for the source codes of the following programs. 
 
 
 #### In this task, you will write pseudo code and flowchart to approach a problem statement and find solutions to the following 2 problems.
 <br>
+
+
 
 __<span style="color: #FF6363; font-size: 1rem;">Problem-1</span>__
 
@@ -106,9 +110,9 @@ __<span style="color: #FF6363; font-size: 1rem;">Problem-2</span>__
 
 ## Resources
 
-[<span style="color: #FE83C6">Pseudo Code</span>](https://www.youtube.com/watch?v=preyTbKXDoQ)
+[<span style="color: #FE83C6"><b>Pseudo Code</b></span>](https://www.youtube.com/watch?v=preyTbKXDoQ)
 
-[<span style="color: #FE83C6">Algorithm using Pseudocode and Flowchart</span>](https://www.youtube.com/watch?v=vOEN65nm4YU)
+[<span style="color: #FE83C6"><b>Algorithm using Pseudocode and Flowchart</b></span>](https://www.youtube.com/watch?v=vOEN65nm4YU)
 
 <br>
 <hr>
