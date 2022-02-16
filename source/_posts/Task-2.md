@@ -129,7 +129,7 @@ __<span style="color: #FF6363; font-size: 1rem;">Problem-2</span>__
 
 # Submission Link
 ## Deadline: <b>17th Feb 2022 ; 23:00</b>
-#### <span style="color:#FF7272">The Submission Link Will Be Updated Shortly.</span>
-<!-- [<b><span style="color: #FE83C6">Task 2 Submission</b></span>](https://forms.gle/pxGr2AaZb81DEqSD7) -->
+<!-- #### <span style="color:#FF7272">The Submission Link Will Be Updated Shortly.</span> -->
+[<b><span style="color: #FE83C6">Task 2 Submission</b></span>](https://forms.gle/6SQeZBdaXRAtTvVe9)
 
 <br>
