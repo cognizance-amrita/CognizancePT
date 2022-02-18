@@ -4,7 +4,6 @@ tags:
   - Open Source
   - Web Design
 author: Author - Abhinandhan S & Mukesh K
-date: 2022-02-04 00:00:00
 ---
 
 ## Adobe XD 
