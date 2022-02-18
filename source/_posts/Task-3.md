@@ -1,16 +1,17 @@
 ---
-title: TASK 3 [WEBSITE DESIGNING]
-date: 2022-02-04
-author: Author - Abhinandhan S & Mukesh K
+title: 'TASK 3 [WEBSITE DESIGNING]'
 tags:
-    - Open Source
-    - Web Design
+  - Open Source
+  - Web Design
+author: Author - Abhinandhan S & Mukesh K
+date: 2022-02-04 00:00:00
 ---
+
 ## Adobe XD 
 
 #### Adobe XD Is A Powerful And Easy-To-Use Vector-Based Experience Design Platform, It Helps You Craft Prototypes That Look And Feel Like The Real Thing, So You Can Communicate Your Design Vision 
 
-<b> For More Information Visit </b> [<b><span style="color: #FE83C6">Adobe XD</span></b>](https://www.adobe.com/in/products/xd/learn/get-started/what-is-adobe-xd-used-for.html)
+<b> For More Information Visit </b>[<b><span style="color: #FE83C6">Adobe XD</span></b>](https://www.adobe.com/in/products/xd/learn/get-started/what-is-adobe-xd-used-for.html)
 
 <br> 
 
@@ -20,7 +21,7 @@ tags:
 
 #### Figma is a web-based graphics editing and user interface design app. You can use it to do all kinds of graphic design work from wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts, and everything in between.
 
-<b> Visit The Official Site </b> [<b><span style="color: #FE83C6">Figma</span></b>](https://www.figma.com/) 
+<b> Visit The Official Site </b>  [<b><span style="color: #FE83C6">Figma</span></b>](https://www.figma.com/) 
 
 <br>
 
@@ -30,7 +31,7 @@ tags:
 
 #### 1. Adobe XD
 
-- <b> Download the latest version of Adobe XD from </b> [<b><span      style="color: #FE83C6">Adobe XD</span></b>](https://www.adobe.com/sg/   products/xd/switcher.html)
+- <b> Download the latest version of Adobe XD from </b> [<b><span style="color: #FE83C6">Adobe Xd</span></b>](https://www.adobe.com/sg/products/xd/switcher.html)  
 - <b> Close The Pop-Up Displayed For Selecting The Regional Site, Without Selecting Any Of Them</b>
 - <b> You'll Now Be Able To See A Download Option In The Navbar, Click It And It'll Redirect You To A Page Where You'll Be Able To Download The File And Install It</b>
 
@@ -62,5 +63,19 @@ tags:
 **Video Reference**: 
 - [<b><span style="color: #FE83C6">Use Figma To Create An Landing Page</span><b>](https://www.youtube.com/watch?v=NB1mn2YVF8Q)
 - [<b><span style="color: #FE83C6">Use Adobe XD In Creating A Landing Page</span><b>](https://www.youtube.com/watch?v=YxTngjYMufc)
+
+<br>
+
+#### And For Submitting The Design Please Export Your Design To A .png File And Upload It To The Submission Link Below.
+
+<b><span style="color: #FA4EAB; font-size: 1rem;"> Note: Please Know That Only PNG Files Accepted, All Other Formats Will Not Be Accepted</span></b>
+
+<br>
+
+<hr>
+
+# Submission Link
+## Deadline: <b>20th Feb 2022 ; 23:00</b>
+[<b><span style="color: #FE83C6">Task 3 Submission</b></span>](https://forms.gle/iCMVr3j4bjRfFkYm7)
 
 <br>
