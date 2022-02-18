@@ -4,7 +4,6 @@ tags:
   - Open Source
   - Web Design
 author: Author - Abhinandhan S & Mukesh K
-date: 2022-02-04 00:00:00
 ---
 
 ## Adobe XD 
@@ -67,6 +66,10 @@ date: 2022-02-04 00:00:00
 <br>
 
 #### And For Submitting The Design Please Export Your Design To A .png File And Upload It To The Submission Link Below.
+  
+  <br>
+  
+#### A Small Addition To The Task, While Submitting The Task, Please Mention Your Genre Of The Web Design So That It'll Be Easy For Evaluation Purposes.
 
 <b><span style="color: #FA4EAB; font-size: 1rem;"> Note: Please Know That Only PNG Files Accepted, All Other Formats Will Not Be Accepted</span></b>
 
