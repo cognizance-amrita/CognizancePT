@@ -4,7 +4,7 @@ tags:
   - AI
   - Python
 author: Author - Shandilyathithyaa  & RISHABH RAJPUT
-date: 2022-02-21
+date: 2022-02-21 
 ---
 
 ## Find the instructions given below for the task. This task consists of five questions on Python programming.
@@ -45,7 +45,7 @@ LrmIsm
 <br>
 
 **<span style="color: #FF6363; font-size: 1rem;">Question-3</span>**
-#### Write a python program to make a 2-dimensional list that contains represents a table of records, for instance, student details like Roll no, Student Name, Marks; And complete the following 3 sub-tasks. 
+#### Write a python program to make a 2-dimensional list that contains represents a table of records, for instance, student details like Roll no, Student Name, Marks; And complete the following 2 sub-tasks. 
 #### i) Add some records in the list and print the list in tabular form,
 #### For e.g.
 ```
@@ -108,7 +108,7 @@ True
 <hr>
 
 # Submission Link
-## Deadline: <b>  23th Feb 2022 ; 23:00 </b>
+## Deadline: <b>  24th Feb 2022 ; 00:00 </b>
 [<b><span style="color: #FE83C6">Task 4 Submission</b></span>](https://forms.gle/zsskRv14bTUrvY8Y6)
 
 <br>

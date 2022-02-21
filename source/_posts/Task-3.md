@@ -4,11 +4,10 @@ tags:
   - Open Source
   - Web Design
 author: Author - Abhinandhan S & Mukesh K
-date: 2022-02-18
+date: 2022-02-21
 ---
 
-## Adobe XD 
-
+## Adobe XD
 #### Adobe XD Is A Powerful And Easy-To-Use Vector-Based Experience Design Platform, It Helps You Craft Prototypes That Look And Feel Like The Real Thing, So You Can Communicate Your Design Vision 
 
 <b> For More Information Visit </b>[<b><span style="color: #FE83C6">Adobe XD</span></b>](https://www.adobe.com/in/products/xd/learn/get-started/what-is-adobe-xd-used-for.html)
