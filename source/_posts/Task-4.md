@@ -4,7 +4,7 @@ tags:
   - AI
   - Python
 author: Author - Shandilyathithyaa  & RISHABH RAJPUT
-# date: 2022-01-21
+# date: 2022-02-21
 ---
 
 ## Find the instructions given below for the task. This task consists of five questions on Python programming.
@@ -90,7 +90,7 @@ True
 <hr>
 
 ## Submission
-<span style="color: #ECB390; font-weight: bold;">1. In the repository which you created in Task-1 “Cognizance” on GitHub. Create a folder with name “Task-5” in the repository.</span> <br> 
+<span style="color: #ECB390; font-weight: bold;">1. In the repository which you created in Task-1 “Cognizance” on GitHub. Create a folder with name “Task-4” in the repository.</span> <br> 
  
 <span style="color: #ECB390; font-weight: bold;">2. Upload the python files and the corresponding output screenshots of the questions.</span>
 
