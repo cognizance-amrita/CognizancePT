@@ -4,7 +4,7 @@ tags:
   - AI
   - Python
 author: Author - Shandilyathithyaa  & RISHABH RAJPUT
-date: 2022-02-21 
+date: 2022-02-18 
 ---
 
 ## Find the instructions given below for the task. This task consists of five questions on Python programming.
