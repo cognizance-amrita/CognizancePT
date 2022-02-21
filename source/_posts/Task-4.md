@@ -4,6 +4,7 @@ tags:
   - AI
   - Python
 author: Author - Shandilyathithyaa  & RISHABH RAJPUT
+date: date: 2022-02-21
 ---
 
 ## Find the instructions given below for the task. This task consists of five questions on Python programming.
@@ -107,7 +108,7 @@ True
 <hr>
 
 # Submission Link
-## Deadline: <b>20th Feb 2022 ; 23:00</b>
+## Deadline: <b>23th Feb 2022 ; 23:00</b>
 [<b><span style="color: #FE83C6">Task 4 Submission</b></span>](https://forms.gle/zsskRv14bTUrvY8Y6)
 
 <br>
