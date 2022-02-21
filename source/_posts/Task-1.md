@@ -4,7 +4,7 @@ tags:
      - General
      - Git & GitHub
 author: Author - Abhinandhan S
-# date: 2022-02-04
+date: 2022-02-04
 ---
 ## Creating an GitHub account
 1. Go to [<b><span style="color: #FE83C6">GitHub</span></b>](https://github.com/join).
