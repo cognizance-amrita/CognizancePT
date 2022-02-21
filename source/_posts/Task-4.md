@@ -1,11 +1,11 @@
 ---
-title: TASK 4 [PYTHON - EASY LVL]
-author: Author - Shandilyathithyaa  & RISHABH RAJPUT
-date: 2022-02-04
+title: 'TASK 4 [PYTHON - EASY LVL]'
 tags:
-    - AI 
-    - Python 
+  - AI
+  - Python
+author: Author - Shandilyathithyaa  & RISHABH RAJPUT
 ---
+
 ## Find the instructions given below for the task. This task consists of five questions on Python programming.
 
 <b><span style="color: #FF6363; font-size: 2rem;">Python</style></b>
@@ -106,4 +106,8 @@ True
 
 <hr>
 
+# Submission Link
+## Deadline: <b>20th Feb 2022 ; 23:00</b>
+[<b><span style="color: #FE83C6">Task 4 Submission</b></span>](https://forms.gle/zsskRv14bTUrvY8Y6)
 
+<br>
