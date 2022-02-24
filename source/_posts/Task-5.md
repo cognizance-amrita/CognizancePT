@@ -1,13 +1,13 @@
 ---
-title: TASK 5 [CYS BASICS]
-author: Author
-    - Aghilan A & Dhanvinesh K
-date: 2022-02-04
+title: 'TASK 5 [CYS BASICS]'
 tags:
-    - Linux Fundamentals
-    - CYS
-    - Bash Scripting
+  - Linux Fundamentals
+  - CYS
+  - Bash Scripting
+author: Author - Aghilan A & Dhanvinesh K
+date: 2022-02-17
 ---
+
 
 ## Find the instructions given below for the task. This task is divided into two parts
 <br>
@@ -92,7 +92,7 @@ Try each and every commands in your virtual machine to understand how the comman
 
 <br>
 
-#### Download the [<span style="color: #FE83C6"> zip file </span>](https://drive.google.com/file/d/1ZYxekUIS4Oi7PHq8EEsVk4gRUbDWrkl9/view?usp=sharing) in linux and extract it using tar (tar -x -f file.tar.gz) and start working.
+#### Download the [<b><span style="color: #FE83C6">zip file</b></span>](https://drive.google.com/file/d/1ZYxekUIS4Oi7PHq8EEsVk4gRUbDWrkl9/view?usp=sharing) in linux and extract it using tar (tar -x -f file.tar.gz) and start working.
 
 <br>
 
@@ -106,8 +106,8 @@ Try each and every commands in your virtual machine to understand how the comman
 <br>
 
 <span style="color: #FA4EAB"> **Note:** </span><br>
-<span style="color: #FA4EAB">&emsp; - Do not take screenshots for the same command twice </span><br>
-<span style="color: #FA4EAB">&emsp; - Do not use GUI applications use bash shell only!!</span>
+<span style="color: #FA4EAB">**&emsp; - Do not take screenshots for the same command twice** </span><br>
+<span style="color: #FA4EAB">**&emsp; - Do not use GUI applications use bash shell only!!**</span>
 
 <br>
 <hr>
@@ -138,17 +138,30 @@ Try each and every commands in your virtual machine to understand how the comman
 
 ## RESOURCES:
 <b><span style="color: #FF6363; font-size: 1rem;"> Linux Fundamentals:</span></b>
-- [<span style="color: #FE83C6">The Linux Command Handbook (freecodecamp.org) </span>](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
-- [<span style="color: #FE83C6"> Home | Linux Journey </span>](https://linuxjourney.com/)
-- [<span style="color: #FE83C6"> LabEx - Linux Basic Commands - Practice Online on LabEx </span>](https://labex.io/courses/linux-basic-commands-practice-online)
-- [<span style="color: #FE83C6"> TryHackMe | Linux Fundamentals </span>](https://tryhackme.com/module/linux-fundamentals)
+- [<b><span style="color: #FE83C6">The Linux Command Handbook (freecodecamp.org) </span></b>](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+- [<b><span style="color: #FE83C6"> Home | Linux Journey </span></b>](https://linuxjourney.com/)
+- [<b><span style="color: #FE83C6"> LabEx - Linux Basic Commands - Practice Online on LabEx </span></b>](https://labex.io/courses/linux-basic-commands-practice-online)
+- [<b><span style="color: #FE83C6"> TryHackMe | Linux Fundamentals </span></b>](https://tryhackme.com/module/linux-fundamentals)
 
 <br>
 <b><span style="color: #FF6363; font-size: 1rem;"> Bash Shell Scripting</span></b>
 
-- [<span style="color: #FE83C6"> Bash Script Tutorial</span>](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
-- [<span style="color: #FE83C6">Bash Script Examples](https://linuxhint.com/30_bash_script_examples/)
-- [<span style="color: #FE83C6"> Bash Scripts for Automation</span>](https://www.youtube.com/watch?app=desktop&v=PPQ8m8xQAs8)
+- [<b><span style="color: #FE83C6"> Bash Script Tutorial</span></b>](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+- [<b><span style="color: #FE83C6">Bash Script Examples</b>](https://linuxhint.com/30_bash_script_examples/)
+- [<b><span style="color: #FE83C6"> Bash Scripts for Automation</span></b>](https://www.youtube.com/watch?app=desktop&v=PPQ8m8xQAs8)
 
 <br>
+<br>
+
+<hr>
+
+## Submission Link
+## Deadline: <b>27th Feb 2022 ; 23:00 i.e 11:00pm </b>
+[<b><span style="color: #FE83C6; font-size:15px">Task 5 Submission</b></span>](https://forms.gle/8CK2HEucUVr2w5mY7)
+
+<b><span style="color: #FA4EAB; font-size:15px">Note: Please Submit The Flags In The Given Format.</span></b>
+
+
+![](images/T5.png)
+
 <br>
