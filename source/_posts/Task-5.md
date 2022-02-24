@@ -87,8 +87,9 @@ Try each and every commands in your virtual machine to understand how the comman
 
 <b><span style="color: #FF6363; font-size: 1rem;">PART 1:</b>
 
+#### <span style="color: #FE83C6">What IS A FLAG? <br> A Flag Is A Piece Of Text That Reveals When You Use Some Linux Commands In The Linux Bash(Terminal).</span>
 #### You are provided with a zip file which has numerous flags hidden inside it. You need to find the flags to earn points.
-> The flag format: <span style="color: lightgreen;">&ensp;flag{Th1s\_i5\_h0w\_@\_fl4g\_look5}.</span>
+> The flag format: <span style="color: lightgreen;">flag{Th1s\_i5\_h0w\_@\_fl4g\_look5}.</span>
 
 <br>
 
@@ -106,8 +107,8 @@ Try each and every commands in your virtual machine to understand how the comman
 <br>
 
 <span style="color: #FA4EAB"> **Note:** </span><br>
-<span style="color: #FA4EAB">**&emsp; - Do not take screenshots for the same command twice** </span><br>
-<span style="color: #FA4EAB">**&emsp; - Do not use GUI applications use bash shell only!!**</span>
+<span style="color: #FA4EAB">**Do not take screenshots for the same command twice** </span><br>
+<span style="color: #FA4EAB">**Do not use GUI applications use bash shell only!!**</span>
 
 <br>
 <hr>
@@ -163,5 +164,20 @@ Try each and every commands in your virtual machine to understand how the comman
 
 
 ![](images/T5.png)
+
+<br>
+
+<hr>
+<br>
+
+## VIBES'22 Cognizance Club CYS Presentation On Flags And CTFs
+
+<div style='max-width: 853px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/feea20d3-47c1-42e2-8df3-7a0237477802?autoplay=false&showinfo=true&amp;st=1066" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+<br>
+
+## What Is A Flag?
+
+[![What Is A Flag](https://res.cloudinary.com/marcomontalbano/image/upload/v1645716907/video_to_markdown/images/google-drive--1JnvIbNEQ3kSCtlkZbwvR1_ccj6qfMbrj-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1JnvIbNEQ3kSCtlkZbwvR1_ccj6qfMbrj/view?usp=sharing "What Is A Flag")
 
 <br>
