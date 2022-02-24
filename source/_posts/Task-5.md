@@ -106,8 +106,8 @@ Try each and every commands in your virtual machine to understand how the comman
 <br>
 
 <span style="color: #FA4EAB"> **Note:** </span><br>
-<span style="color: #FA4EAB">**&emsp; - Do not take screenshots for the same command twice** </span><br>
-<span style="color: #FA4EAB">**&emsp; - Do not use GUI applications use bash shell only!!**</span>
+<span style="color: #FA4EAB">** - Do not take screenshots for the same command twice** </span><br>
+<span style="color: #FA4EAB">** - Do not use GUI applications use bash shell only!!**</span>
 
 <br>
 <hr>
