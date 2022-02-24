@@ -88,7 +88,7 @@ Try each and every commands in your virtual machine to understand how the comman
 <b><span style="color: #FF6363; font-size: 1rem;">PART 1:</b>
 
 #### You are provided with a zip file which has numerous flags hidden inside it. You need to find the flags to earn points.
-> The flag format: <span style="color: lightgreen;">&ensp;flag{Th1s\_i5\_h0w\_@\_fl4g\_look5}.</span>
+> The flag format: <span style="color: lightgreen;">flag{Th1s\_i5\_h0w\_@\_fl4g\_look5}.</span>
 
 <br>
 
