@@ -131,7 +131,7 @@ Try each and every commands in your virtual machine to understand how the comman
   - <span style="color:#95CD41;"> Reverse order
   - <span style="color:#95CD41;"> Numerical order
 - <span style="color:#95CD41;"> Copee is a hard-working cop. He found a case and almost at the verge of cracking it. It could be his best breakthrough. He has the list of criminals but lots of duplicates are there. He needs to find the only one that is **different.** He sought your help. How will you sort this issue?
-- <span style="color:#95CD41;"> What are the four parts of file&#39;s permission?
+- <span style="color:#95CD41;"> What are the Three parts of file&#39;s permission?
 
 <br>
 <hr>
