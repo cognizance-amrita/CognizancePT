@@ -1,14 +1,13 @@
 ---
-title: TASK 6 [PRESENTATION & DOCUMENTATION SKILLS]
-author: Author
-    - Shandilyathithyaa MA & Dhanvinesh K
-date: 2022-02-04
+title: 'TASK 6 [PRESENTATION & DOCUMENTATION SKILLS]'
 tags:
-    - Presentation
-    - General
-    - Markdown
-    
+  - Presentation
+  - General
+  - Markdown
+author: Author - Shandilyathithyaa MA & Dhanvinesh K
+date: 2022-02-16
 ---
+
 
 <b><span style="color: #FF6363; font-size: 1.4rem;">PART 1:</span></b>
 
@@ -18,24 +17,29 @@ Presentation skills are a set of abilities that enable an individual to interact
 
 <br>
 
-## Guidelines for the task</span></b>
+#### <span style="color:#C1F8CF; font-size:1.5rem"><b>THE TASK</b></span>
 
-- Create an attractive presentation for any existing software product.
+- <b>CREATE AN ATTRACTIVE PRESENTATION FOR ANY EXISTING SOFTWARE PRODUCT.</b>
 
-- Your presentation should contain everything you wish to convey about your product.
+- <b>YOUR PRESENTATION SHOULD CONTAIN EVERYTHING YOU WISH TO CONVEY ABOUT YOUR PRODUCT</b>
 
-- First slide - Introduce your product's name with your name as the presenter.
+- <b>FIRST SLIDE</b> - Introduce your product's name with your name as the presenter.
 
-- Second slide - Motivation which has driven you to come up with this product (Might be a problem which you wished to solve with your software).
+- <b>SECOND SLIDE</b> - Motivation which has driven you to come up with this product (Might be a problem which you wished to solve with your software).
 
-- Third slide - Goals preplanned during the ideation phase of the product (Preferred with a timeline).
+- <b>THIRD SLIDE</b> - Goals preplanned during the ideation phase of the product (Preferred with a timeline).
 
-- Fourth slide - Workflow of the product (Workflow is simply the way how it works - A flow diagram will do).
+- <b>FOURTH SLIDE</b> - Workflow of the product (Workflow is simply the way how it works - A flow diagram will do).
 
-- Fifth slide - Commercial advantages of the software product.
+- <b>FIFTH SLIDE</b> - Commercial advantages of the software product.
 
+#### <span style="color:#F6A9A9">After Finishing With The PPT, Using Any Screen Recorder Of Your Choice(OBS Studio: Highly Recommended), Record Your Presentation With Your Own Voice And With The Camera Turned On! The Presentatio Shouldn't Exceed 1.5 Minutes!, After Completing The Recording, Upload The Video In Youtube & Change It's Visibility To Public.</span>
 <br>
 
+## Resources
+[<b><span style="color: #FE83C6">Install OBS Studio</span></b>](https://obsproject.com/da/download)
+[<b><span style="color: #FE83C6">How to Use OBS Studio - Complete Tutorial for Beginners!</span></b>](https://youtu.be/-puA85ciDEM)
+<br>
 
 > <span style="color: lightgreen"> <b> Note: </b> <br> </span>
 > <span style="color: lightgreen"> - The above are the essentials parts to be taken care of, in your presentation.</span> <br>
@@ -69,7 +73,7 @@ Presentation skills are a set of abilities that enable an individual to interact
 
 <b><span style="color: #FF6363; font-size: 1.2rem;">How to write Markdown?</style></b>
 
-#### Following are the few important markdown syntax. Visit the official documentations of CommonMark or GFM or other markdown variants to know more about the syntax of the language. 
+#### Following are the few important markdown syntax. Visit the official documentations of CommonMark or GFM or other markdown variants to know more about the syntax of the language, Feel Free To Use The Official Cheat Sheet of Markdown From The resources section.
 
 <br>
 <table>
@@ -112,22 +116,29 @@ Presentation skills are a set of abilities that enable an individual to interact
 </table>
 
 <br>
-<hr>
+
+#### <span style="color:#C1F8CF; font-size:1.5rem"><b>THE TASK</b></span>
+
+#### Write a markdown file 'README.md' which explains the theme, motivation, future improvements, etc. about the landing page that you made for Task-3 and And Upload A Link To Your Presentation Video Which Is In Youtube! Utilize The Converter Provided In The Resources Section
 
 <br>
 
-## Submission
-
-#### Write a markdown file 'README.md' which explains the theme, motivation, future improvements, etc. about the landing page that you made for Task-3 and Task-4.
-
-<br>
-<hr>
 
 ## Resources
-- [<span style="color: #FE83C6">Syntax for Markdown</span>](https://youtu.be/HUBNt18RFbo)
+- [<b><span style="color: #FE83C6">Syntax for Markdown</span></b>](https://youtu.be/HUBNt18RFbo)
 <br>
-- [<span style="color: #FE83C6">GitHub Flavoured Markdown</span>](https://github.github.com/gfm/#tables-extension-)
+- [<b><span style="color: #FE83C6">GitHub Flavoured Markdown</span></b>](https://github.github.com/gfm/#tables-extension-)
+<br>
+- [<b><span style="color: #FE83C6">Video To Markdown Converter</span></b>](https://video-to-markdown.marcomontalbano.com/)
+<br>
+- [<b><span style="color: #FE83C6">Markdown Cheat Sheet</span></b>](https://www.markdownguide.org/cheat-sheet/)
 <br>
 
 <br>
+<hr>
+
+## Submission Link
+## Deadline: <b>02nd March 2022 ; 23:00 i.e 11:00pm </b>
+[<b><span style="color: #FE83C6; font-size:15px">Task 6 Submission</b></span>](https://forms.gle/V9ek6GGLGxz5b37L7)
+
 <br>
