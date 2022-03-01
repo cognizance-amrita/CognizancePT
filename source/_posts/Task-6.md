@@ -14,7 +14,7 @@ date: 2022-02-16 00:00:00
 
 <b><span style="color: #FF6363; font-size: 1.2rem;">Presentation skills</span></b>
 
-Presentation skills are a set of abilities that enable an individual to interact with the audience and transfer the messages clearly, engage the audience while presenting and interpret and understand the mindsets of the listeners. These skills will polish and enhance one’s persuasive skills. Your ideas are important to you - having the skill and the ability to communicate those ideas in a persuasive fashion means an increased probability that others will support you. Develop strong presentation skills and it’s amazing how people will pay attention to what you have to say.
+Presentation skills are the set of abilities that enable an individual to interact with the audience and transfer the messages clearly, engage the audience while presenting and interpret and understand the mindsets of the listeners. These skills will polish and enhance one’s persuasive skills. Your ideas are important to you - having the skill and the ability to communicate those ideas in a persuasive fashion means an increased probability that others will support you. Develop strong presentation skills and it’s amazing how people will pay attention to what you have to say.
 
 <br>
 
@@ -34,7 +34,7 @@ Presentation skills are a set of abilities that enable an individual to interact
 
 - <b>FIFTH SLIDE</b> - Commercial advantages of the software product.
 
-#### <span style="color:#F6A9A9">After Finishing With The PPT, Using Any Screen Recorder Of Your Choice(OBS Studio: Highly Recommended), Record Your Presentation With Your Own Voice And With The Camera Turned On! The Presentatio Shouldn't Exceed 1.5 Minutes!, After Completing The Recording, Upload The Video In Youtube & Change It's Visibility To Public.</span>
+#### <span style="color:#F6A9A9">After Finishing With The PPT, Using Any Screen Recorder Of Your Choice(OBS Studio: Highly Recommended), Record Your Presentation With Your Own Voice And With The Camera Turned On! The Presentation Shouldn't Exceed 3 Minutes!, After Completing The Recording, Upload The Video In Youtube & Change It's Visibility To Public.</span>
 <br>
 
 ## Resources
