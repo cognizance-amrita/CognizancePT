@@ -34,7 +34,7 @@ Presentation skills are the set of abilities that enable an individual to intera
 
 - <b>FIFTH SLIDE</b> - Commercial advantages of the software product.
 
-#### <span style="color:#F6A9A9">After Finishing With The PPT, Using Any Screen Recorder Of Your Choice(OBS Studio: Highly Recommended), Record Your Presentation With Your Own Voice And With The Camera Turned On! The Presentation Shouldn't Exceed 1.5 Minutes!, After Completing The Recording, Upload The Video In Youtube & Change It's Visibility To Public.</span>
+#### <span style="color:#F6A9A9">After Finishing With The PPT, Using Any Screen Recorder Of Your Choice(OBS Studio: Highly Recommended), Record Your Presentation With Your Own Voice And With The Camera Turned On! The Presentation Shouldn't Exceed 3 Minutes!, After Completing The Recording, Upload The Video In Youtube & Change It's Visibility To Public.</span>
 <br>
 
 ## Resources
