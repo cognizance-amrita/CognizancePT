@@ -120,7 +120,7 @@ Presentation skills are the set of abilities that enable an individual to intera
 
 #### <span style="color:#C1F8CF; font-size:1.5rem"><b>THE TASK</b></span>
 
-#### Write a markdown file 'README.md' which explains the theme, motivation, future improvements, etc. about the landing page that you made for Task-3 and And Upload A Link To Your Presentation Video Which Is In Youtube! Utilize The Converter Provided In The Resources Section
+#### Write a markdown file 'README.md' which explains the theme, motivation, future improvements, etc. about the landing page that you made for Task-3  and Upload it in Github. And Give the Link of Your Markdown File In Your Presentation Video in Youtube (in Description)!
 
 <br>
 
