@@ -139,7 +139,7 @@ Presentation skills are the set of abilities that enable an individual to intera
 <hr>
 
 ## Submission Link
-## Deadline: <b>02nd March 2022 ; 23:00 i.e 11:00pm </b>
+## Deadline: <b>03rd March 2022 ; 23:00 i.e 11:00pm </b>
 [<b><span style="color: #FE83C6; font-size:15px">Task 6 Submission</b></span>](https://forms.gle/V9ek6GGLGxz5b37L7)
 
 <br>
