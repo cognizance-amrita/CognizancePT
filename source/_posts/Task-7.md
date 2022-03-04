@@ -1,12 +1,12 @@
 ---
-title: TASK 8 [LINUX GAMES]
-author: Author
-    - Aghilan A & Dhanvinesh K
-date: 2022-02-04
+title: 'TASK 7 [LINUX GAMES]'
 tags:
-    - OTW Wargames
-    - CYS   
+  - OTW Wargames
+  - CYS
+author: Author - Aghilan A & Dhanvinesh K
+date: 2022-02-15 00:00:00
 ---
+
 
 ## OverTheWire Wargames
 
@@ -24,7 +24,7 @@ The Bandit wargame is aimed at absolute beginners. It will teach the basics need
 
 <b><span style="color: #FF6363; font-size: 1.2rem;">TASK</span></b>
 
-Read the instructions given in the OverTheWire website properly and then find whatever is needed to proceed to next levels. You have to complete upto <b>level 20</b>. Submit us a document of the passwords you found along with the screenshots of the passwords.
+Read the instructions given in the OverTheWire website properly and then find whatever is needed to proceed to next levels. You have to complete upto <b>level 15</b>. Submit us a document of the passwords you found along with the screenshots of the passwords.
 
 <br>
 
@@ -32,4 +32,10 @@ Read the instructions given in the OverTheWire website properly and then find wh
 - [<b><span style="color: #FE83C6">OverTheWire</span></b>](https://overthewire.org/wargames/bandit/)
 
 <br>
+<br>
+
+## Submission Link
+## Deadline: <b>06th March 2022 ; 23:00 i.e 11:00pm </b>
+[<b><span style="color: #FE83C6; font-size:15px">Task 7 Submission</b></span>](https://forms.gle/jARNkTGPjE4fLCGH9)
+
 <br>
