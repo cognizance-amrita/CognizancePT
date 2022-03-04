@@ -24,7 +24,7 @@ The Bandit wargame is aimed at absolute beginners. It will teach the basics need
 
 <b><span style="color: #FF6363; font-size: 1.2rem;">TASK</span></b>
 
-Read the instructions given in the OverTheWire website properly and then find whatever is needed to proceed to next levels. You have to complete upto <b>level 15</b>. Submit us a document of the passwords you found along with the screenshots of the passwords.
+Read the instructions given in the OverTheWire website properly and then find whatever is needed to proceed to next levels. You have to complete upto <b>level 15</b>. Submit us a <b>PROPER PDF</b> document of the passwords you found along with the screenshots of the passwords.
 
 <br>
 
