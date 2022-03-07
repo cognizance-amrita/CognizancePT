@@ -1,13 +1,15 @@
 ---
-title: TASK 7 [PYTHON - MEDICORE LVL]
-author: Author - Charan Krishna & Rishabh Rajput
-ddate: 2022-02-04
+title: 'TASK 8 [PYTHON - MEDICORE LVL]'
 tags:
-    - AI 
-    - Python 
-    - NumPy
-    - Pandas
+  - AI
+  - Python
+  - NumPy
+  - Pandas
+author: Author - Charan Krishna & Rishabh Rajput
+date: 2022-02-14 00:00:00 
+
 ---
+
 
 ## Find the instructions given below for the task. This task consists of five questions on Python programming.
 
@@ -88,7 +90,7 @@ Amrita School Of Engineering Chennai Campus
 <hr>
 
 ## Submission
-<span style="color: #ECB390; font-weight: bold;">1. In the repository which you created in Task-1 “Cognizance” on GitHub. Create a folder with name “Task-5” in the repository.</span> <br> 
+<span style="color: #ECB390; font-weight: bold;">1. In the repository “Cognizance” on GitHub, Create a folder with name “Task-8”</span> <br> 
  
 <span style="color: #ECB390; font-weight: bold;">2. Upload the python files and the corresponding output screenshots of the questions.</span>
 
@@ -97,15 +99,21 @@ Amrita School Of Engineering Chennai Campus
 
 ## Resources
 
-*Video Reference*: 
-- [<span style="color: #FE83C6">Python NumPy Tutorial for Beginners </span>](https://youtu.be/QUT1VHiLmmI)
-- [<span style="color: #FE83C6"> Python NumPy Tutorial ](https://youtu.be/8JfDAm9y_7s)
-- [<span style="color: #FE83C6"> Python Pandas Tutorial ](https://www.youtube.com/watch?v=UB3DE5Bgfx4)
+*<b>Video Reference</b>*: 
+- [<b><span style="color: #FE83C6">Python NumPy Tutorial for Beginners</span></b>](https://youtu.be/QUT1VHiLmmI)
+- [<b><span style="color: #FE83C6"> Python NumPy Tutorial</span></b>](https://youtu.be/8JfDAm9y_7s)
+- [<b><span style="color: #FE83C6"> Python Pandas Tutorial</span></b>](https://www.youtube.com/watch?v=UB3DE5Bgfx4)
 
 
-*Refer*:
+*<b>Refer</b>*:
 
-- [<span style="color: #FE83C6"> Python NumPy </span>](https://www.geeksforgeeks.org/numpy-tutorial/)
-- [<span style="color: #FE83C6"> Python Pandas </span>](https://www.tutorialspoint.com/python_pandas/index.htm)
+- [<b><span style="color: #FE83C6"> Python NumPy</span></b>](https://www.geeksforgeeks.org/numpy-tutorial/)
+- [<b><span style="color: #FE83C6"> Python Pandas</span></b>](https://www.tutorialspoint.com/python_pandas/index.htm)
 <br>
 <hr>
+
+# Submission Link
+## Deadline: <b>  9th March 2022 ; 11:00pm i.e. 23:00 </b>
+[<b><span style="color: #FE83C6">Task 8 Submission</b></span>](https://forms.gle/gzwQAZWwKJwzDjuA8)
+
+<br>
