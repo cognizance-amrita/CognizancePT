@@ -122,8 +122,8 @@ git config --list --show-origin
 <hr>
 
 # Submission Link
-## Deadline: <b>15th Feb 2022 ; 23:00</b>
-[<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/pxGr2AaZb81DEqSD7)
+## Deadline: <b>10th June 2022 ; 23:00</b>
+[<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/xb8YB8cgndWL2mXr8)
 
 <br>
 
