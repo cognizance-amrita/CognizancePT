@@ -2,7 +2,7 @@
 title: LeaderBoard
 ---
 
-# The LeaderBoard Will Be Published Soon!😄
+# The LeaderBoard For Task 1  Will Be Published Soon!😄
 
 <!-- ![](/images/LT/1.png)
 ![](/images/LT/2.png) -->
