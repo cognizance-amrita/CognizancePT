@@ -65,7 +65,7 @@ date: 2022-02-19
 
 <br>
 
-#### And For Submitting The Design Please Export Your Design To A .png File And Upload It To The Submission Link Below.
+#### And For Submitting The Design Please Export Your Design To A .png File And Upload It To A Separate Folder In Your Repository Created For Task 1. Name The Folder As Task 2.
   
   <br>
   
