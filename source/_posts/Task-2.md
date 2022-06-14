@@ -78,7 +78,7 @@ date: 2022-02-19
 <hr>
 
 # Submission Link
-## Deadline: <b>16th June 2022 ; 23:00</b>
+## Deadline: <b>16th June 2022 ; 23:59</b>
 [<b><span style="color: #FE83C6">Task 2 Submission</b></span>](https://forms.gle/yVxdUpMuvVaSM2969)
 
 <br>
