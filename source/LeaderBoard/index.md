@@ -2,12 +2,11 @@
 title: LeaderBoard
 ---
 
-# The LeaderBoard For Task 1  Will Be Published Soon!😄
+# The LeaderBoard For Task 1! 🎇
 
-<!-- ![](/images/LT/1.png)
-![](/images/LT/2.png) -->
-<!-- ![](/images/LT/3.png) -->
-<!-- ![](/images/LT/4.png) -->
+![](/images/LT/1.png)
+![](/images/LT/2.png)
+
 
 
 <br>
