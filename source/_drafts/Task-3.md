@@ -1,12 +1,12 @@
 ---
-title: 'TASK 8 [PYTHON - MEDICORE LVL]'
+title: 'TASK 3 [PYTHON - EASY LVL]'
 tags:
   - AI
   - Python
   - NumPy
   - Pandas
 author: Author - Charan Krishna & Rishabh Rajput
-date: 2022-02-14 00:00:00 
+date: 2022-02-18
 
 ---
 
@@ -113,7 +113,7 @@ Amrita School Of Engineering Chennai Campus
 <hr>
 
 # Submission Link
-## Deadline: <b>  9th March 2022 ; 11:00pm i.e. 23:00 </b>
-[<b><span style="color: #FE83C6">Task 8 Submission</b></span>](https://forms.gle/gzwQAZWwKJwzDjuA8)
+## Deadline: <b>  19th June '22' ; 8:00 am </b>
+[<b><span style="color: #FE83C6">Task 3 Submission</b></span>](https://forms.gle/gzwQAZWwKJwzDjuA8)
 
 <br>
