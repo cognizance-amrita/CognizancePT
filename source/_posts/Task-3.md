@@ -113,7 +113,7 @@ Amrita School Of Engineering Chennai Campus
 <hr>
 
 # Submission Link
-## Deadline: <b>  19th June '22' ; 8:00 am </b>
+## Deadline: <b>  19th June '22' ; 23:59 </b>
 [<b><span style="color: #FE83C6">Task 3 Submission</b></span>](https://forms.gle/AneYKHAhUv2F9NrcA)
 
 <br>
