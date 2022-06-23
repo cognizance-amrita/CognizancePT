@@ -35,7 +35,7 @@ Read the instructions given in the OverTheWire website properly and then find wh
 <br>
 
 ## Submission Link
-## Deadline: <b>06th March 2022 ; 23:00 i.e 11:00pm </b>
+## Deadline: <b>26th June '22 ; 17:00 </b>
 [<b><span style="color: #FE83C6; font-size:15px">Task 5 Submission</b></span>](https://forms.gle/HtJYWttdWdG7MADS8)
 
 <br>
