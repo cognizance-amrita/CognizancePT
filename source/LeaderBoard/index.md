@@ -2,7 +2,7 @@
 title: LeaderBoard
 ---
 
-# The LeaderBoard For Task's 4✨
+# The LeaderBoard For Task 4✨
 
 ![](/images/LT/1.png)
 <!-- ![](/images/LT/2.png) -->
