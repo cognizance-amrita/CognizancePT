@@ -2,11 +2,11 @@
 title: LeaderBoard
 ---
 
-# The LeaderBoard For Task 4✨
+# The LeaderBoard For Task 6✨
 
 ![](/images/LT/1.png)
-<!-- ![](/images/LT/2.png) -->
 
-# The LeaderBoard For Task's 5 & 6 Will Be Updated Before Today✨
+
+
 
 <br>
