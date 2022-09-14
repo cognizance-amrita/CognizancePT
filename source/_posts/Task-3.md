@@ -1,96 +1,65 @@
 ---
-title: 'TASK 3 [PYTHON - EASY LVL]'
+title: 'TASK 3 [PYTHON - MEDICORE LVL]'
 tags:
   - AI
   - Python
-  - NumPy
-  - Pandas
-author: Author - Charan Krishna & Rishabh Rajput
-date: 2022-02-18
-
+author: Author - Shandilyathithyaa & Aparna J
+date: 2022-02-14 00:00:00
 ---
 
-
-## Find the instructions given below for the task. This task consists of five questions on Python programming.
-
-<b><span style="color: #FF6363; font-size: 2rem;">Python</style></b>
-
-#### Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. 
-
-##### Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. 
-
-##### Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. 
-<hr>
+## Find the instructions given below for the task. This task consists of 3 Parts i.e. 3 Questions.
 
 **<span style="color: #FF6363; font-size: 1rem;">Question-1</span>**
 
-#### Consider the vector [10, 11, 12, 13, 14], how to build a new vector with 5 consecutive zeros interleaved between each value?
-##### Sample Input
+<span style="color: #ECB390; font-weight: bold;">File Handling is one of the basic important task when it comes to building machine learning models or neural networks. Building a good model always starts with finding datasets and processing it, for which, file handling acts as a stepping stone.</span>
+
+#### Write a python program that reads the contents from the given file 'onelinefile.txt'. The file contains a single line which is of the format (int)(string)(float)(string) repeatedly. For e.g. 
 ```
-First Number: 10
-Last Number: 14
+1Aaa3.5Maths2Bbb4.2Physics3Ccc7.62Chemistry
 ```
-##### Sample Output
+
+<br>
+
+#### Your main task is to split the contents of the given file based on their format and write it into a .csv file say 'Filename2.csv'. For e.g. the above txt file should be converted into a csv file such that the contents look like this:
+
+```csv
+1,Aaa,3.5,Maths
+2,Bbb,4.2,Physics
+3,Ccc,7.62,Chemistry
 ```
-[10.  0.  0.  0.  0.  0. 11.  0.  0.  0.  0.  0. 12.  0.  0.  0.  0.  0. 13.  0.  0.  0.  0.  0. 14.]
-```
+<br>
+
+<span style="color: #ECB390; font-weight: bold;">Contents of 'onelinefile.txt'</span>
+
+#### 1Aaa3.5Maths2Bbb4.2Physics3Ccc7.62Chemistry4Ddd9.55Biology5Eee4.0Social6Fff7.6English7Ggg3.111Maths8Hhh9.99Physics9Iii1.23Civics
+
+
 <br>
 
 **<span style="color: #FF6363; font-size: 1rem;">Question-2</span>**
-#### Consider two random array A anb B, check if they are equal
-##### Sample Input
-```
-First array:                                                           
-[1 0 0 0 1 0]                                                          
-Second array:                                                          
-[0 0 1 1 0 1]
-```
-##### Sample Output
-```
-False
-```
+#### Data formatting  
+
+#### Python libraries represent missing numbers as nan which is short for "not a number". Most libraries (including scikit-learn) will give you an error if you try to build a model using data with missing values. One of the common solution to get around this issue is to impute or fill in the missing value with a number or value of same format. From the given dataset, find the missing values(Nan/NA/-/Nil) and change those values into an appropriate number.
+
+[<span style="color: #FE83C6; font-weight: bold">Dataset Link</span>](https://github.com/cognizance-amrita/AI-Tasks/blob/main/Task-1/Q2-Dataset.csv)
+
 <br>
+
+<hr>
 
 **<span style="color: #FF6363; font-size: 1rem;">Question-3</span>**
-#### What is the result of the following expression ?  
-```
-print(0 * np.nan)
-print(np.nan != np.nan)
-print(np.inf > np.nan)
-print(np.nan - np.nan)
-print(0.3 == 3 * 0.1) 
-```
+#### Read the file 'about.txt' and find the words with atleast 6 letters and the most frequently used word. 
+
+#### Contents of the file 'about.txt': 
+
+<span style="color: #FF6363;">Python has tools for almost every aspect of scientific computing. The Bank of America uses Python to crunch its financial data and Facebook looks upon the Python library Pandas for its data analysis. While there are many libraries available to perform data analysis in Python, here are a few: NumPy, SciPy, Pandas and Matplotlib.</span> 
 
 <br>
 
-**<span style="color: #FF6363; font-size: 1rem;">Question-4</span>**
-####  Convert the first character of each element in a series to uppercase? 
-##### Sample Input
-```
-ser = pd.Series(['amrita', 'school', 'of', 'engineering' 'chennai' , 'campus'])
-```
-##### Sample Output
-```
-Amrita School Of Engineering Chennai Campus
-```
-<br>
-
-**<span style="color: #FF6363; font-size: 1rem;">Question-5</span>**
-#### Do any two Exercises using Numpy
-
-```
-1.addition of 2 numpy arrays
-2.Multiplying a matrix
-3.Identity Matrix
-4.Array datatype conversion
-5.Array re-dimensioning
-6.Custom Sequence Generation
-7.Getting the positions (indexes) where elements of 2 numpy arrays match
-```
 <hr>
 
 ## Submission
-<span style="color: #ECB390; font-weight: bold;">1. In the repository “Cognizance” on GitHub, Create a folder with name “Task-3”</span> <br> 
+<span style="color: #ECB390; font-weight: bold;">1. In the repository “Cognizance” on GitHub, Create a folder with name "Task-6"</span> <br> 
  
 <span style="color: #ECB390; font-weight: bold;">2. Upload the python files and the corresponding output screenshots of the questions, In a PDF Named Outputs! Please Name Each Screen Shot With Their File Name For Example If There's A Picture Of The Output Of Q1 Then Write Q1 In The Top Of That Particular Picture.</span>
 
@@ -99,21 +68,21 @@ Amrita School Of Engineering Chennai Campus
 
 ## Resources
 
-*<b>Video Reference</b>*: 
-- [<b><span style="color: #FE83C6">Python NumPy Tutorial for Beginners</span></b>](https://youtu.be/QUT1VHiLmmI)
-- [<b><span style="color: #FE83C6"> Python NumPy Tutorial</span></b>](https://youtu.be/8JfDAm9y_7s)
-- [<b><span style="color: #FE83C6"> Python Pandas Tutorial</span></b>](https://www.youtube.com/watch?v=UB3DE5Bgfx4)
+*Video Reference*: 
 
+[<span style="color: #FE83C6 ; font-weight: bold">Python Tutorial: File Objects - Reading and Writing to Files</span>](https://www.youtube.com/watch?v=Uh2ebFW8OYM)
 
-*<b>Refer</b>*:
+[<span style="color: #FE83C6; font-weight: bold">Introduction - Data Analysis and Data Science with Python and Pandas</span>](https://www.youtube.com/watch?v=nLw1RNvfElg)
 
-- [<b><span style="color: #FE83C6"> Python NumPy</span></b>](https://www.geeksforgeeks.org/numpy-tutorial/)
-- [<b><span style="color: #FE83C6"> Python Pandas</span></b>](https://www.tutorialspoint.com/python_pandas/index.htm)
+[<span style="color: #FE83C6; font-weight: bold">Python NumPy Tutorial for Beginners</span>](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 <br>
+
+<br>
+
 <hr>
 
-# Submission Link
-## Deadline: <b>  19th June '22' ; 23:59 </b>
-[<b><span style="color: #FE83C6">Task 3 Submission</b></span>](https://forms.gle/AneYKHAhUv2F9NrcA)
+# Submission 
+## Deadline: <b>  6th Oct '22 ; 23:59 </b>
+[<b><span style="color: #FE83C6">Task 3 Submission</b></span>](https://forms.gle/Z31SJA8Ea8PY12r89)
 
 <br>

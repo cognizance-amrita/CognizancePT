@@ -1,129 +1,86 @@
 ---
-title: TASK 1 [GIT & GITHUB]
-tags: 
-     - General
-     - Git & GitHub
-author: Author - Abhinandhan S
-date: 2022-02-21
+title: 'TASK 1 [WEB DEVELOPMENT]'
+tags:
+  - Open Source
+  - Web Development
+  - 'HTML, CSS'
+author: Author - Mukesh K & Abhinandhan S
+date: 2022-09-15 00:00:00
 ---
-## Creating an GitHub account
-1. Go to [<b><span style="color: #FE83C6">GitHub</span></b>](https://github.com/join).
-2. Sign up for GitHub.
-
-*Video Reference*: [<b><span style="color: #FE83C6">Setup GitHub Account</span></b>](https://youtu.be/XaMiHHu_rb4)
+## <span style="font-size: 1rem;">The Task Is To Develop An E-commerce Web App And Host The Website In GitHub Pages. </style>
 
 
+<br>
+
+<br>
+<hr>
+
+
+#### The following elements should atleast be present on your Web App.
+
+<br>
+
+<b>
+
+1. A Home Page With A Header, Footer, And A Carousel.
+
+2. A Product page with atleast 10 products in it.
+
+3. Individual Product Pages For Each Product Containing Muliple Images, Price Of The Product, Description of the product, A way to increase the quantity of a product required and that should be reflected in the cart page, And A Button To both Add The Product To Cart and to Buy it immediately.
+
+4. A Cart Page where the user can see the total price of the products added to the cart, and the total quantity of the products added to the cart, and finally a checkout button.
+
+5. A FAQ Page To Answer The Frequently Asked Questions.
+
+6. A Contact Us Page With A Contact Form with the Form Validation Done.
+
+</b>
+
+## Note: Apart from these requirements, you are allowed to add your own tweaks.
+
+#### Resources:
+[<b><span style="color: #FE83C6">E-commerce website Makin' Playlist</span></b>](https://youtube.com/playlist?list=PLqm86YkewF6THruxeooR92-8atX_oAPTg)
 
 <br>
 
 <hr>
 
-## Install Git In Your desktop
-#### Kindly see the video and install git bash in your system and set your username and user-email in the Git Bash.
-*Video Reference*: [<b><span style="color: #FE83C6">Installing Git</span></b>](https://www.youtube.com/watch?v=YXXp_ht4pwQ&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg&index=6)
+#### <b><span style="color: #9D84B7; font-size: 1.3rem">Hosting The Web App</span></b>
 
+#### There's Many Ways To Host A Web App On The Internet, But The One For This Task Is GitHub Pages.
 
-<br>
+[<b><span style="color: #FE83C6">Host a website as a GitHub page</span></b>](https://www.youtube.com/watch?v=8hrJ4oN1u_8)
 
-<hr>
-
-## Git operations
-#### To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop or Git Kraken.
-
-<br>
-
-**<span style="color: #FF6363; font-size: 1rem;">Basic Operations</span>**
-#### The following is a summary of basic git operations:
-**<span style="color: #B958A5">git add</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Puts current working files into the stage.
-</div></b>
-
-**<span style="color: #B958A5">git checkout</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Replaces the current working files with files from a branch.
-</div></b>
-
-**<span style="color: #B958A5">git checkout -b</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Creates a new local branch from the current branch's tip.
-</div></b>
-
-**<span style="color: #B958A5">git clone</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Clone an existing repository into a new directory.
-</div></b>
-
-**<span style="color: #B958A5">git commit</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Commits staged changes to a local branch.
-</div></b>
-
-**<span style="color: #B958A5">git commit -a</span>**
-
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-     Commits all modified files to a local branch(shorthand for "git add" followed by "git commit" for each modified file).
-</div></b>
-
-**<span style="color: #B958A5">git fetch</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Downloads changes from a remote repository into the local clone.
-</div></b>
-
-**<span style="color: #B958A5">git merge</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Merges files from a given branch into the current branch.
-</div></b>
-
-**<span style="color: #B958A5">git pull</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Fetches remote changes on the current branch into the local clone, and merges them into the current working files.
-</div></b>
-
-**<span style="color: #B958A5">git push</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Uploads changes from all local branches to the respective remote repositories.
-</div></b>
-
-**<span style="color: #B958A5">git reset</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Makes the current branch point to some specific revision or branch
-</div></b>
-
-**<span style="color: #B958A5">git rebase</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Integrates changes from one branch into another. It is an alternative to the better known "merge" command.
-</div></b>
-
-**<span style="color: #B958A5">git fork</span>**
-<b><div style="background:#212326; margin: 1rem 0; -webkit-border-radius: 4px; padding:0 1rem; ">
-Fork will create a copy of the repository in your GitHub account so that you can make changes to the project.
-</div></b>
-
-<br>
-
-*Video Reference*: [<b><span style="color: #FE83C6">Basic Operation</span><b>](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
+#### Do Make That U Submit Us The Perfect URL For Accessing The Website! Please Make Sure You Use The Correct URL, Otherwise, The Website Will Not Be Accessible! And It'll Be A Hard Time For Us And You To Get The Website Live!
 
 <br>
 
 <hr>
 
-# Task
-<span style="color: #ECB390; font-weight: bold;">1. Create a repository with name “Cognizance” on GitHub using Git Bash.
-2. Create a folder with name “Task-1” in the repository and perform the Git operations using Git Bash.
-3. Upload the screenshot of the git bash using This command in your computer.</span> <br> 
-```bash
-git config --list --show-origin
-``` 
-<span style="color: #ECB390; font-weight: bold;">4. Take a screenshot of all the Git operations you performed and compile it in a single PDF and upload it in “Task-1” folder this PDF Should Also Contain the screenshot of the command mentioned in point 3.</span>
+# <b><span style="font-size: 1.2rem">Submission Guidelines</span></b>
+
+- <b>The Codes For This Particular Task Should Be In A New Repository Named "Ecommerce_Web_App_< YourAppName >"!! Please Submit Your Repository And The Website Link In The Form Provided! Don't Make Any Errors While Submitting The Form! Also In The Same Repository Please Do Submit The Design Of Your Website Done Either Using Figma Or AdobeXD</b>
 
 <br>
 
 <hr>
 
-# Submission Link
-## Deadline: <b>10th June 2022 ; 23:59</b>
-[<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/xb8YB8cgndWL2mXr8)
+# <b><span style="font-size: 1.2rem">Stack Overflow</span></b>
+
+## What Is StackOverflow?
+
+#### Stack Overflow is an incredible collection of programming and software knowledge. It's a question and answer website for professional and enthusiast programmers. It is the flagship site of the Stack Exchange Network, The Largest Communtiy Which Provides Answers To Any Type Of Programming Questions.
+
+[<b><span style="color: #FE83C6">How To Use Stack Overflow</span></b>](https://youtu.be/sMIslcynm0Q)
+
+#### Use The Above Video To Understand Stack Overflow And How To Use It. You Can Start Watching From 2:38minutes.
 
 <br>
 
+<hr>
+
+# Submission 
+## Deadline: 29th Sept 2022 23:59
+[<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/1h98KgAooZaaTBqV9)
+
+<br>
