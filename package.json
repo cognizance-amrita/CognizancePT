@@ -12,8 +12,12 @@
     "version": "6.2.0"
   },
   "dependencies": {
+<<<<<<< HEAD
     "firebase": "^9.9.4",
     "hexo": "^6.2.0",
+=======
+    "hexo": "^6.3.0",
+>>>>>>> bf6043c95fc5b9cf5bc2add66cddf48acc9b043d
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
