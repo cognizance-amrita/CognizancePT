@@ -80,7 +80,7 @@ date: 2022-09-15 00:00:00
 <hr>
 
 # Submission 
-## Deadline: 29th Sept 2022 23:59
+## Deadline: 30th Sept 2022 23:59
 [<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/1h98KgAooZaaTBqV9)
 
 <br>

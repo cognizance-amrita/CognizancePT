@@ -37,7 +37,7 @@ Read the instructions given in the OverTheWire website properly and then find wh
 <hr>
 
 # Submission 
-## Deadline: <b>6th Oct '22 ; 23:59 </b>
+## Deadline: 30th Sept 2022 23:59
 [<b><span style="color: #FE83C6; font-size:15px">Task 2 Submission</b></span>](https://forms.gle/Mard2bkdWXhEjeFb7)
 
 <br>
