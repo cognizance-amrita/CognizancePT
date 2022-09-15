@@ -58,10 +58,6 @@ date: 2022-02-14 00:00:00
 
 <hr>
 
-## Submission
-<br>
-<hr>
-
 ## Resources
 
 *Video Reference*: 
