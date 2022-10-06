@@ -58,14 +58,6 @@ date: 2022-02-14 00:00:00
 
 <hr>
 
-## Submission
-<span style="color: #ECB390; font-weight: bold;">1. In the repository “Cognizance” on GitHub, Create a folder with name "Task-6"</span> <br> 
- 
-<span style="color: #ECB390; font-weight: bold;">2. Upload the python files and the corresponding output screenshots of the questions, In a PDF Named Outputs! Please Name Each Screen Shot With Their File Name For Example If There's A Picture Of The Output Of Q1 Then Write Q1 In The Top Of That Particular Picture.</span>
-
-<br>
-<hr>
-
 ## Resources
 
 *Video Reference*: 
