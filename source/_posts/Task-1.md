@@ -37,7 +37,6 @@ date: 2022-09-15 00:00:00
 </b>
 
 ## Note: Apart from these requirements, you are allowed to add your own tweaks.
-
 #### Resources:
 [<b><span style="color: #FE83C6">E-commerce website Makin' Playlist</span></b>](https://youtube.com/playlist?list=PLqm86YkewF6THruxeooR92-8atX_oAPTg)
 
