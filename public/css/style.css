@@ -582,7 +582,7 @@ body {
   letter-spacing: 0.1em;
   font-weight: 700;
   font-style: normal;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 2rem;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -651,6 +651,7 @@ body {
   #header #title h1 {
     display: table-cell;
     vertical-align: middle;
+    font-size: 1rem !important;
   }
   #header #nav ul a:hover {
     background: none;
