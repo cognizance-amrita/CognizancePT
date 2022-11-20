@@ -2,9 +2,9 @@
 title: LeaderBoard
 ---
 
-<!-- # The LeaderBoard For Tasks Will Be Provided Once The Evaluation Is Completed!✨ -->
+# The LeaderBoard Will Be Provided Once The Preliminary Tasks Are Started!✨
 
-![](/images/LT/1.png)
+<!-- ![](/images/LT/1.png)
 ![](/images/LT/2.png)
 ![](/images/LT/3.png)
 
@@ -14,4 +14,4 @@ title: LeaderBoard
 
 
 
-<br>
+<br> -->
