@@ -13,6 +13,7 @@ date: 2022-02-13 00:00:00
 
 ## Resources
 [<b><span style="color: #FE83C6">How to use HackerRank effectively | Beginners to Pro guide</span></b>](https://youtu.be/9CpvWF41WrQ)
+[<b><span style="color: #FE83C6">SignUp To HackerRank</span></b>](https://www.hackerrank.com/auth/signup)
 
 <br>
 
