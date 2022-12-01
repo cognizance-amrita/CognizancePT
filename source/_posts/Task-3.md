@@ -74,7 +74,7 @@ date: 2022-02-14 00:00:00
 <hr>
 
 # Submission 
-## Deadline: 30th Sept 2022 23:59
-[<b><span style="color: #FE83C6">Task 3 Submission</b></span>](https://forms.gle/Z31SJA8Ea8PY12r89)
+## Deadline: <b>31st December 2022 ; 23:00 i.e 11:00pm </b>
+[<b><span style="color: #FE83C6">Task 3 Submission</b></span>](https://forms.gle/qyhjnqMenfRTN6Dw8)
 
 <br>

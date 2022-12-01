@@ -16,9 +16,10 @@ direction: ltr
 nav:
    Home: /
    About: /About/
-   Basics: /Basics/ 
+   Git & GitHub: /Basics/ 
    Virtual Machines: /VIRTUAL-MACHINES/
-   Leader Board: /LeaderBoard/
+   Discord: /Discord/
+  #  Leader Board: /LeaderBoard/
 #   Info: /Info/
   #  Cognizance Site: http://cognizance-amrita.in/
   #  projects: https://github.com/cognizance-amrita

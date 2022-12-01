@@ -1,5 +1,5 @@
 ---
-title: 'TASK 6 [PRESENTATION & DOCUMENTATION SKILLS]'
+title: 'TASK 1 [PRESENTATION & DOCUMENTATION SKILLS]'
 tags:
   - Presentation
   - General
@@ -120,7 +120,7 @@ Presentation skills are the set of abilities that enable an individual to intera
 
 #### <span style="color:#C1F8CF; font-size:1.5rem"><b>THE TASK</b></span>
 
-#### Write a markdown file 'README.md' which explains the theme, motivation, future improvements, etc. about the landing page that you made for Task-3  and Upload it in Github. And Give the Link of Your Markdown File In Your Presentation Video in Youtube (in Description)!
+#### Write a markdown file 'README.md' which explains the  motivation, interests and factors which might affect your knowledge. i.e. about how you see yourself in another 5-10 Yrs, And Upload it in Github,  Give the Link of Your Markdown File In Your Presentation Video in Youtube (in Description)!
 
 <br>
 
@@ -139,7 +139,7 @@ Presentation skills are the set of abilities that enable an individual to intera
 <hr>
 
 ## Submission Link
-## Deadline: <b>03rd March 2022 ; 23:00 i.e 11:00pm </b>
-[<b><span style="color: #FE83C6; font-size:15px">Task 6 Submission</b></span>](https://forms.gle/V9ek6GGLGxz5b37L7)
+## Deadline: <b>31st December 2022 ; 23:00 i.e 11:00pm </b>
+[<b><span style="color: #FE83C6; font-size:15px">Task 1 Submission</b></span>](https://forms.gle/8ftAM9BxjvrEXkj66)
 
 <br>
