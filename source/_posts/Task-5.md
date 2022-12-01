@@ -10,7 +10,7 @@ date: 2022-02-13 00:00:00
 
 ## Please find the link to access the cybersecurity tasks below:
 
-[<b><span style="color: #FE83C6">Task-1</span></b>](https://tryhackme.com/jr/cognizancecysdomainprelims1)
+[<b><span style="color: #FE83C6">Task-1</span></b>](https://tryhackme.com/room/cognizancecysprelims1)
 
 [<b><span style="color: #FE83C6">Task-2</span></b>](https://tryhackme.com/jr/cognizancecysdomainprelims2)
 
