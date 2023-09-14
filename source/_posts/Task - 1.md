@@ -3,7 +3,7 @@ title: TASK 1 [GIT & GITHUB]
 tags: 
      - General
      - Git & GitHub
-author: Author - Open Source Domain
+author: Open Source Domain
 date: 2022-02-21
 ---
 ## Creating an GitHub account
