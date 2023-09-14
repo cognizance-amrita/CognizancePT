@@ -110,7 +110,7 @@ Fork will create a copy of the repository in your GitHub account so that you can
 
 # Task
 <span style="color: #ECB390; font-weight: bold;">Take a screenshot of all the Git operations above that you performed in your system and compile it in a single PDF.
-Then visit our GitHub repository https://github.com/cognizance-amrita/PT-1 and follow the below instructions.
+Then visit our GitHub repository https://github.com/cognizance-amrita/PT-1 and follow the below instructions as part of Sumbission Process. Also fill the forms at the end of the page.
 1. On the top right corner of the repository's page, you'll find a "Fork" button. Click on it.
 2. A popup will appear, asking where you want to fork the repository. By default, your personal GitHub account should be selected. Click on your username to fork the repository to your account.
 3. GitHub will create a copy of the repository in your account.
