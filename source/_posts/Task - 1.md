@@ -138,7 +138,7 @@ There are many sources apart from these to learn extensively about Git and GitHu
 <hr>
 
 # Submission Link
-## Deadline: <b> 16th September 2023 ; 23:59</b>
+## Deadline: <b> 16th September 2023 @ 23:59</b>
 [<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/hB7iLuFtHo6EgGEb7)
 
 <br>
