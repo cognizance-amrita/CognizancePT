@@ -109,13 +109,18 @@ Fork will create a copy of the repository in your GitHub account so that you can
 <hr>
 
 # Task
-<span style="color: #ECB390; font-weight: bold;">1. Create a repository with name “Cognizance” on GitHub using Git Bash.
-2. Create a folder with name “Task-1” in the repository and perform the Git operations using Git Bash.
-3. Upload the screenshot of the git bash using This command in your computer.</span> <br> 
-```bash
-git config --list --show-origin
-``` 
-<span style="color: #ECB390; font-weight: bold;">4. Take a screenshot of all the Git operations you performed and compile it in a single PDF and upload it in “Task-1” folder this PDF Should Also Contain the screenshot of the command mentioned in point 3.</span>
+<span style="color: #ECB390; font-weight: bold;">Take a screenshot of all the Git operations you performed and compile it in a single PDF.
+
+1. On the top right corner of the repository's page, you'll find a "Fork" button. Click on it.
+2. A popup will appear, asking where you want to fork the repository. By default, your personal GitHub account should be selected. Click on your username to fork the repository to your account.
+3. GitHub will create a copy of the repository in your account.
+4. Once the forking process is complete, you will be redirected to your forked repository's page. The repository name will include your GitHub username to differentiate it from the original repository.
+5. Now, navigate to the repository you created by forking and create a branch and name it "submission".
+6. In the directory create a new directory with your own name.
+8. Inside "Your-Name" directory, upload the pdf file with screenshots.
+10. Commit changes.
+11. Create a new pull request from your "submission" branch to "main" branch of the original repository.
+12. Don't merge the pull request yet!</span>
 
 <br>
 
