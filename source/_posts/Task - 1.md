@@ -102,7 +102,7 @@ Fork will create a copy of the repository in your GitHub account so that you can
 
 <br>
 
-*Video Reference*: [<b><span style="color: #FE83C6">Basic Operation</span><b>](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
+*Video Reference*: [<b><span style="color: #FE83C6">Basic Operations</span><b>](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
 
 <br>
 
@@ -120,10 +120,14 @@ git config --list --show-origin
 <br>
 
 <hr>
-
+# Other References
+Check out these sources if you want to explore more about Git and GitHub apart from the scope of the Task
+1. [<b><span style="color: #FE83C6">Complete Git and GitHub Tutorial</span><b>](https://www.youtube.com/watch?v=apGV9Kg7ics)
+2.[<b><span style="color: #FE83C6">Git and GitHub for Beginners - freeCodeCamp</span><b>](https://www.youtube.com/watch?v=RGOj5yH7evk&pp=ygUOR2l0IGFuZCBHaXRodWI%3D)
+There are many sources apart from these to learn extensively about Git and GitHub, so you can explore those too. 
 # Submission Link
 ## Deadline: <b> 16th September 2023 ; 23:59</b>
-[<b><span style="color: #FE83C6">Task 1 Submission</b></span>]Forms Link
+[<b><span style="color: #FE83C6">Task 1 Submission</b></span>](https://forms.gle/hB7iLuFtHo6EgGEb7)
 
 <br>
 
