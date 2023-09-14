@@ -123,7 +123,8 @@ git config --list --show-origin
 
 # Other References
 Check out these sources if you want to explore more about Git and GitHub apart from the scope of the Task
-1.[<b><span style="color: #FE83C6">Complete Git and GitHub Tutorial</span><b>](https://www.youtube.com/watch?v=apGV9Kg7ics)
+1.[<b><span style="color: #FE83C6">Complete Git and GitHub Tutorial</span><b>](https://www.youtube.com/watch?v=apGV9Kg7ics).
+<br>
 2.[<b><span style="color: #FE83C6">Git and GitHub for Beginners - freeCodeCamp</span><b>](https://www.youtube.com/watchv=RGOj5yH7evk&pp=ygUOR2l0IGFuZCBHaXRodWI%3D)
 There are many sources apart from these to learn extensively about Git and GitHub, so you can explore those too. 
 <br>
