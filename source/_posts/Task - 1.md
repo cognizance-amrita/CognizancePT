@@ -131,7 +131,7 @@ Check out these sources if you want to explore more about Git and GitHub apart f
 
 1.[<b><span style="color: #FE83C6">Complete Git and GitHub Tutorial</span><b>](https://www.youtube.com/watch?v=apGV9Kg7ics).
 
-2.[<b><span style="color: #FE83C6">Git and GitHub for Beginners - freeCodeCamp</span><b>](https://www.youtube.com/watchv=RGOj5yH7evk&pp=ygUOR2l0IGFuZCBHaXRodWI%3D)
+2.[<b><span style="color: #FE83C6">Git and GitHub for Beginners - freeCodeCamp</span><b>](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 There are many sources apart from these to learn extensively about Git and GitHub, so you can explore those too. 
 <br>
