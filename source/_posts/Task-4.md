@@ -1,11 +1,11 @@
 ---
-title: Task 1 ( 22nd SEP 2023 )
+title: Task 4 ( 22nd SEP 2023 )
 date: 2023-09-24 11:40:00
 tags: Preliminary tasks
 domain: AI
 ---
 
-# Task-1
+# Task-4
 
 Following are the few subtasks that will help you run through the python essentials for getting started with AI and ML.
 
