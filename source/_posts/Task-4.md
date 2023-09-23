@@ -98,5 +98,6 @@ Python has tools for almost every aspect of scientific computing. The Bank of Am
 
 <br><br>
 
-## __Submission Link__(https://docs.google.com/forms/d/e/1FAIpQLSddEo2ZwppjMhXTnnXWKFvckpvluAyxH-j2MvCgkVLAUTWmlA/viewform?usp=sf_link)
+## __Submission Link__
+<span style="color: #ECB390; font-weight: bold;">[Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSddEo2ZwppjMhXTnnXWKFvckpvluAyxH-j2MvCgkVLAUTWmlA/viewform?usp=sf_link)</span>
 
