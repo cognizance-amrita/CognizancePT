@@ -36,13 +36,41 @@ File Handling is one of the basic important task when it comes to building machi
 
 <br>
 
-## Q2
-### Data formatting
-Python libraries represent missing numbers as nan which is short for "not a number". Most libraries (including scikit-learn) will give you an error if you try to build a model using data with missing values. One of the common solution to get around this issue is to impute or fill in the missing value with a number or value of same format. From the given dataset, find the missing values(Nan/NA/-/Nil) and change those values into an appropriate number.
+**Q2**
 
-> [Dataset link](https://github.com/cognizance-amrita/AI-Tasks/blob/main/Task-1/Q2-Dataset.csv)
+A Python library used for complex mathematical and statistical tasks and operations. It is one of the important libraries used in data preprocessing and ML/DL Algorithms. We can create from basic equations to some of the most complex Neural Network architectures using this. The first part of this task introduces you to the basics of Numpy.
 
-<br>
+You can use this command in your terminal to install Numpy
+
+```
+pip install numpy
+```
+
+<hr>
+
+1. Create a single and multidimensional arrays using numpy and also create a array of numbers of a specified range.
+
+2. Convert the above array to a 3 x 12 array.
+
+3. Create a multidimentional square matrix and find the inverse of it. 
+
+    ( _Use the the below formula to compute the inverse. <br>Use the inbuilt inverse command too to validate your results._ )
+
+$$  inv(A) = {adj(A) \over{ |A| } }$$
+
+4. Extract specific rows and columns using Slicing
+
+5. Import data from files directly into ndarray using the loadtxt function.
+
+<hr>
+
+### References 📖
+1. Numpy Docs : https://numpy.org/doc/stable/reference/index.html#numpy-reference
+2. Numpy Tutorial : https://www.youtube.com/watch?v=QUT1VHiLmmI&pp=ygUFbnVtcHk%3D
+3. Numpy Basics : https://medium.com/nerd-for-tech/a-complete-guide-on-numpy-for-data-science-c54f47dfef8d
+4. Numpy Linear Algebra class : https://numpy.org/doc/stable/reference/routines.linalg.html
+
+
 
 ## Q3
 #### Read the file 'about.txt' and find the words with atleast 6 letters and the most frequently used word.
