@@ -93,27 +93,28 @@ Here's how to do it:
 
 #### Steps to Create the Landing Page:
 ##### Step 1: VS Code
-1.	If you haven't already, download and install Visual Studio Code from [<b><span style="color: #FE83C6">VSCode<span></b>](https://code.visualstudio.com/)
-2.	Create a new folder on your computer where you want to store your project files. You can name it something like "MyProject."
-3.	Open VS Code.
-4.	Click on "File" in the top left corner.
-5.	Select "Open Folder..."
-6.	Choose the folder you created in Step 2 ("MyProject") and click "Open."
-7.	In VS Code, right-click on your project folder in the sidebar (on the left).
-8.	Select "New File."
-9.	Name the file "index.html" and press Enter. This will be your HTML file.
-10.	Repeat the process to create two more files: "styles.css" for your CSS and "script.js" for your JavaScript.
-11.	Open each file by clicking on them in the sidebar.
-12.	Write your HTML code in "index.html," CSS code in "styles.css," and JavaScript code in "script.js."
-13.	Live Server Extension (Recommended)	
-•	In VS Code, go to the Extensions view by clicking on the square icon in the left sidebar.
-•	Search for "Live Server" and install the extension by Ritwick Dey.
-•	Once installed, you'll see a "Go Live" button at the bottom right of the VS Code window. Click it.
-•	Your default web browser should open, displaying your HTML file. Any changes you make in your code will automatically refresh the page.
-14.	Alternative: Without Live Server
-•	Open your "index.html" file in your web browser directly by right-clicking the file and selecting "Open with..." and choosing your browser.
-•	To see changes, you'll need to manually refresh the page (F5 or Ctrl+R).
- 
+
+1. If you haven't already, download and install Visual Studio Code from [<b><span style="color: #FE83C6">VSCode<span></b>](https://code.visualstudio.com/)
+2. Create a new folder on your computer where you want to store your project files. You can name it something like "MyProject".
+3. Open VS Code.
+4. Click on "File" in the top left corner.
+5. Select "Open Folder..."
+6. Choose the folder you created in Step 2 ("MyProject") and click "Open."
+7. In VS Code, right-click on your project folder in the sidebar (on the left).
+8. Select "New File."
+9. Name the file "index.html" and press Enter. This will be your HTML file.
+10. Repeat the process to create two more files: "styles.css" for your CSS and "script.js" for your JavaScript.
+11. Open each file by clicking on them in the sidebar.
+12. Write your HTML code in "index.html," CSS code in "styles.css," and JavaScript code in "script.js."
+13. Live Server Extension (Recommended)	
+- In VS Code, go to the Extensions view by clicking on the square icon in the left sidebar.
+- Search for "Live Server" and install the extension by Ritwick Dey.
+- Once installed, you'll see a "Go Live" button at the bottom right of the VS Code window. Click it.
+- Your default web browser should open, displaying your HTML file. Any changes you make in your code will automatically refresh the page.
+15. Alternative: Without Live Server
+- Open your "index.html" file in your web browser directly by right-clicking the file and selecting "Open with..." and choosing your browser.
+- To see changes, you'll need to manually refresh the page (F5 or Ctrl+R).
+
 <hr>
 
 ##### Step 2: GitHub Repository
