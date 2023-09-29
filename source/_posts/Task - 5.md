@@ -163,5 +163,5 @@ This task aims to help you learn the basics of web development and showcase your
 
 
 # Submission Link
-## Deadline: <b>5th October 2023 ; 23:59</b>
+## Deadline: <b>8th October 2023 ; 23:59</b>
 [<b><span style="color: #FE83C6">Task 5 Submission</b></span>]([https://forms.gle/yVxdUpMuvVaSM2969](https://forms.gle/wh4mbJsXEtLQLgq68))
