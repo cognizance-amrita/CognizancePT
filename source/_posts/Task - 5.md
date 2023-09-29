@@ -93,8 +93,7 @@ Here's how to do it:
 
 #### Steps to Create the Landing Page:
 ##### Step 1: VS Code
-<span>
-1.	If you haven't already, download and install Visual Studio Code from [https://code.visualstudio.com/](https://code.visualstudio.com/)
+1.	If you haven't already, download and install Visual Studio Code from [<b><span style="color: #FE83C6">VSCode<span></b>](https://code.visualstudio.com/)
 2.	Create a new folder on your computer where you want to store your project files. You can name it something like "MyProject."
 3.	Open VS Code.
 4.	Click on "File" in the top left corner.
@@ -124,6 +123,8 @@ Here's how to do it:
 4. Choose "Public" for the visibility so that others can see your work.
 5. Click "Create repository."
 
+<hr>
+
 ##### Step 3: Organize Your Repository
 1. Inside your repository, click "Create new file" and name it "index.html."
 2. Create two more folders: "css" and "js" (if not already created).
@@ -131,16 +132,20 @@ Here's how to do it:
 4. Inside the "js" folder, create a file named "script.js."
 5. Paste your code from VS code in the respective files
 
+<hr>
+
 ##### Step 4: README Documentation
 1. In the root of your repository, create a file named "README.md."
 2. Describe your landing page project:
    - Mention your chosen theme.
    - Explain any special features.
 
+<hr>
+
 ## Resources:
 ### VS Code Installation
 - [<b><span style="color: #FE83C6">Windows Installation</span><b>](https://www.google.com/amp/s/www.geeksforgeeks.org/how-to-install-visual-studio-code-on-windows/amp/)
-- [<b><span style="color: #FE83C6">MacOS Installtion</span><b>](MacOS : https://adamtheautomator.com/visual-studio-code-on-mac/)
+- [<b><span style="color: #FE83C6">MacOS Installtion</span><b>](https://adamtheautomator.com/visual-studio-code-on-mac/)
 ### Tutorials 
 - [<b><span style="color: #FE83C6">W3Schools (HTML)</span><b>](https://www.w3schools.com/html/)
 - [<b><span style="color: #FE83C6">W3 Schools (CSS)</span><b>](https://www.w3schools.com/css/default.asp)
@@ -150,8 +155,8 @@ Here's how to do it:
 ### Simple Website using HTML, CSS, JavaScript
 - [<b><span style="color: #FE83C6">Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners</span><b>](https://youtu.be/krfUjg0S2uI?si=fcWZYUG9S95RUflQ)
 ### Video Tutorials
-[<b><span style="color: #FE83C6">Responsive Landing Page Website HTML CSS And JAVASCRIPT</span><b>](https://youtube.com/playlist?list=PL07efmqYWHZ8jroJAkkFB2s4ZKpVNCOQa&si=GUmtDTjtdwo6MAE3) 
-[<b><span style="color: #FE83C6">Vanilla JavaScript tutorial</span><b>](https://youtu.be/Ttf3CEsEwMQ?si=KJxFOmwMpiUljN7r)
+- [<b><span style="color: #FE83C6">Responsive Landing Page Website HTML CSS And JAVASCRIPT</span><b>](https://youtube.com/playlist?list=PL07efmqYWHZ8jroJAkkFB2s4ZKpVNCOQa&si=GUmtDTjtdwo6MAE3) 
+- [<b><span style="color: #FE83C6">Vanilla JavaScript tutorial</span><b>](https://youtu.be/Ttf3CEsEwMQ?si=KJxFOmwMpiUljN7r)
 
 This task aims to help you learn the basics of web development and showcase your creativity.
 
