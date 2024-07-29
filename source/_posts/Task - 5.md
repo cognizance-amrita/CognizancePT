@@ -1,11 +1,13 @@
 ---
-title: 'TASK 5 [WEBSITE DESIGNING]'
+title: 'TASK 1'
 tags:
   - Open Source
   - Web Design
-  - Designing
-author: Author - Umme Rooman & Harine Vidyasekaran
-date: 2023-09-29
+  - AI
+  - CYS
+  - CP
+author: Author - Nehal Khan
+date: 2024-07-29
 ---
 
 # Part - 1 (Web Designing)
