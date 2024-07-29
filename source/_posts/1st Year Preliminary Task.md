@@ -1,5 +1,5 @@
 ---
-title: 'TASK 1'
+title: '1st Year Preliminary Task'
 tags:
   - Open Source
   - Web Design
