@@ -9,7 +9,7 @@ author: Author - Nehal Khan
 date: 2024-08-20
 ---
 
-# Preliminary Task
+# 1st Year Preliminary Task
 ####  Will be Active on Sep 1 2024
 
 # Submission Link
