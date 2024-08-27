@@ -2,7 +2,7 @@
 title: About
 date: 2022-01-26 16:05:37
 ---
->Peer - learning is a potentially powerful way of sharing knowledge about doing public sector reform. This learning involves individuals exchanging knowledge and experience with each other, and diffusing this learning back to their organisations to ensure an impact—at scale—on reform initiatives. While peer learning entails complex organisational logistics, it avoids the risk of focusing on process rather than product. It recognises that ultimately learning takes place between individuals and it facilitates interpersonal interchanges that are wellmatched and that are based on trust and commitment.
+>Peer learning is a potentially powerful way of sharing knowledge about doing public sector reform. This learning involves individuals exchanging knowledge and experience with each other, and diffusing this learning back to their organisations to ensure an impact—at scale—on reform initiatives. While peer learning entails complex organisational logistics, it avoids the risk of focusing on process rather than product. It recognises that ultimately learning takes place between individuals and it facilitates interpersonal interchanges that are wellmatched and that are based on trust and commitment.
 
 <br>
 
