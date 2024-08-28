@@ -84,7 +84,6 @@ You are tasked with creating a small database system to manage student membershi
 <span style="color: #ADD8E6;">_References:_</span>
 - [<span style="color: #55AAFF;">Google Colab tutorial</span>](https://www.youtube.com/watch?v=rsBiVxzmhG0)
 
-<hr>
 
 **<span style="color: #FF6363; font-size: 1rem;">Question 1</span>**
 
