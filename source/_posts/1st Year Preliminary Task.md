@@ -264,7 +264,7 @@ _<span style="color: #ADD8E6">References:</span>_
 
 CREATE AN ACCOUNT IN HACKERRANK PLATFORM AND JOIN IN THE HACKERRANK CHALLENGE VIA THE LINK GIVEN BELOW:
 
-<span style="color: #ADD8E6;">_LINK:_</span> <https://www.hackerrank.com/cp-task-for-1st-year>
+<span style="color: #ADD8E6;">_LINK:_</span> <https://www.hackerrank.com/prelim-task-1st-year>
 
 <span style="color: #ADD8E6;">_SCORING CRITERIA:_</span>
 
