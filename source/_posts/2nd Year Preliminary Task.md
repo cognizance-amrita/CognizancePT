@@ -58,11 +58,11 @@ Recognizing the urgent need for improvement, the airline's management decided to
 
 **<span style="color: #90EE90; font-size: 1.5rem;">CYS</span>**
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - P. Sreeram Rohith and Subramanian</span>**
- 
+  
 **<span style="color: #ADD8E6; font-size: 1rem;">Story Driven - Decrypting the Cipher Code</span>**
 
 In the bustling city of Technopolis, where the world's most brilliant minds gather, the prestigious Cognizance Club is renowned for its cutting-edge innovations and breakthrough technologies. Recently, the club developed a revolutionary machine-learning algorithm that could predict cyber threats with unprecedented accuracy. However, just days before the algorithm's official presentation, it was stolen from the club's secure servers.
-
+ 
 The club's administration is in a state of panic. The algorithm, if fallen into the wrong hands, could be used for malicious purposes. The city's cybercrime unit is already on the case, but they need the help of the brightest minds to solve this mystery swiftly. The thief left a mp3 file, stating that if cracked, it would lead to the recovery of the stolen algorithm.
 
 _<span style="color: #ADD8E6">Objective:</span>_
@@ -88,7 +88,7 @@ _<span style="color: #ADD8E6">Hints:</span>_
 
 ```lua
 
-fvHwSekvEf6bktVlrsW0FA==
+hoZyGgMHU4dM+8zgZAPXhA==
 
 ```
 
