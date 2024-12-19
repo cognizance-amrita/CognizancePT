@@ -15,10 +15,10 @@ direction: ltr
 # languages/*.yml
 nav:
    Home: /
-   About: /About/
-   Git & GitHub: /Basics/ 
-   Virtual Machines: /VIRTUAL-MACHINES/
-   Discord: /Discord/
+   # About: /About/
+   # Git & GitHub: /Basics/ 
+  # Virtual Machines: /VIRTUAL-MACHINES/
+  # Discord: /Discord/
   #  Leader Board: /LeaderBoard/
 #   Info: /Info/
   #  Cognizance Site: http://cognizance-amrita.in/
