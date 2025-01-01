@@ -9,24 +9,24 @@ _**<span style="color: #90EE90;">Note:</span> You are not compelled to do all th
 <hr>
 <hr>
 
-## **<span style="color: #90EE90; font-size: 1.5rem;">Open Source</span>**
-### **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Jahnavi and Nehal Khan</span>**
+**<span style="color: #90EE90; font-size: 1.5rem;">Open Source</span>**
+**<span style="color: #ADD8E6; font-size: 1rem;">Authors - Jahnavi and Nehal Khan</span>**
 
-### **<span style="color: #ADD8E6; font-size: 1rem;">API</span>**
+**<span style="color: #ADD8E6; font-size: 1rem;">API</span>**
 
 ![image](https://github.com/user-attachments/assets/5eb10050-5286-46e3-84c3-1b2710264792)![image](https://github.com/user-attachments/assets/960aba82-bd5e-4c12-9b9c-4d367369ee9f)![image](https://github.com/user-attachments/assets/b56c0014-e838-436a-889b-9cd065995bd4)
 
-### **<span style="color: #FF6363; font-size: 1rem;">Question</span>**
+**<span style="color: #FF6363; font-size: 1rem;">Question</span>**
 You are tasked with creating a REST API using any programming language of your choice.
 
-#### <span style="color: #ADD8E6;">_Objective:_</span>
+<span style="color: #ADD8E6;">_Objective:_</span>
 - The API can perform any function of your choice.
 - The main goal of this task is to learn what is REST API and what are its uses.
 
-#### <span style="color: #ADD8E6;">_References:_</span>
+<span style="color: #ADD8E6;">_References:_</span>
 - [<span style="color: #55AAFF;">REST API</span>](https://www.youtube.com/watch?v=-MTSQjw5DrM)
 
-#### <span style="color: #ADD8E6;">_Submission Guidelines:_</span>
+<span style="color: #ADD8E6;">_Submission Guidelines:_</span>
 - Upload a video demonstrating the code on any platform (YouTube, Drive, etc.)
 - The video must have public access if uploaded in the drive. The task will not be considered for evaluation if it has private access.
 - Submit the code in the GitHub directory.
@@ -35,17 +35,17 @@ You are tasked with creating a REST API using any programming language of your c
 <hr>
 <hr>
 
-## **<span style="color: #90EE90; font-size: 1.5rem;">Cyber Security</span>**
+**<span style="color: #90EE90; font-size: 1.5rem;">Cyber Security</span>**
 
-### **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Keerthi Rohan and Subramanian</span>**
+**<span style="color: #ADD8E6; font-size: 1rem;">Authors - Keerthi Rohan and Subramanian</span>**
 
-### **<span style="color: #FF6363; font-size: 1rem;">Question 1</span>**
-### **<span style="color: #ADD8E6; font-size: 1rem;">The Bandit Heist</span>**
+**<span style="color: #FF6363; font-size: 1rem;">Question 1</span>**
+**<span style="color: #ADD8E6; font-size: 1rem;">The Bandit Heist</span>**
 
-#### <span style="color: #ADD8E6;">_Objective:_</span>  
+<span style="color: #ADD8E6;">_Objective:_</span>  
 Your mission is to infiltrate The Bandit’s server and progress through a series of challenges to gain insights into their methods. Successfully completing each level will bring you closer to uncovering the tools and techniques used by The Bandits.  
 
-#### <span style="color: #ADD8E6;">_Submission Guidelines:_</span>  
+<span style="color: #ADD8E6;">_Submission Guidelines:_</span>  
 
 1. Include your name and the task name in the file.  
 2. Provide a detailed explanation of the steps taken to solve at least the first 5 levels.  
@@ -58,10 +58,10 @@ Your mission is to infiltrate The Bandit’s server and progress through a serie
 
 _(PDF Should contain Submission guidelines 1, 2, 3, and 4)_  
 
-#### <span style="color: #ADD8E6;">_Guidance:_</span>  
+<span style="color: #ADD8E6;">_Guidance:_</span>  
 If you are stuck or at a dead end while solving a challenge, you may look up solutions online to understand the approach. However, proceed with caution: use these solutions as a learning aid and not as a shortcut. Attempt to solve the challenges honestly to maximize your learning experience.  
 
-#### <span style="color: #ADD8E6;">_Start The Game:_</span>  
+<span style="color: #ADD8E6;">_Start The Game:_</span>  
 [<span style="color: #55AAFF;">Bandit Wargame Instructions</span>](https://overthewire.org/wargames/bandit/)  
 
 #### <span style="color: #ADD8E6;">_References:_</span>  
@@ -73,35 +73,35 @@ If you are stuck or at a dead end while solving a challenge, you may look up sol
 <hr>
 <hr>
 
-## **<span style="color: #90EE90; font-size: 1.5rem;">Competitive Programming</span>**
-### **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Kaushik Kumbhat and Adithiyan P V</span>**
+**<span style="color: #90EE90; font-size: 1.5rem;">Competitive Programming</span>**
+**<span style="color: #ADD8E6; font-size: 1rem;">Authors - Kaushik Kumbhat and Adithiyan P V</span>**
 
 The below HackerRank contest contains 4 questions based on linked lists. Refer to the links provided below or explore other YouTube channels to learn the concepts. Feel free to contact any of the mentors if you have doubts regarding the concepts or your code.
 
-### **<span style="color: #ADD8E6; font-size: 1rem;">Contest:</span>**  
+**<span style="color: #ADD8E6; font-size: 1rem;">Contest:</span>**  
 [<span style="color: #55AAFF;">Weekly Task - 2nd Year</span>](https://www.hackerrank.com/weekly-task-2-year)  
 
 **Best of luck!**
 
-### **<span style="color: #FF6363; font-size: 1rem;">Note:</span>** Kindly don’t use AI to code.
+**<span style="color: #FF6363; font-size: 1rem;">Note:</span>** Kindly don’t use AI to code.
 
-#### <span style="color: #ADD8E6;">_Reference Links:_</span>  
+<span style="color: #ADD8E6;">_Reference Links:_</span>  
 - [<span style="color: #55AAFF;">Short Video</span>](https://youtu.be/N6dOwBde7-M?si=AQ7fDB2rVqejnJWR)  
 - [<span style="color: #55AAFF;">Advanced Interview Prep Playlist</span>](https://youtube.com/playlist?list=PLgUwDviBIf0rAuz8tVcM0AymmhTRsfaLU&si=Y-63r4WhFoSK-qU4)  
 
-#### **<span style="color: #ADD8E6;">Hints for the Problems in Contest:</span>**  
+**<span style="color: #ADD8E6;">Hints for the Problems in Contest:</span>**  
 - **Cycle Detection:** Use two pointers moving at different speeds.  
 - **Reverse:** Manipulate the links, keeping the nodes as they are.  
 
 <hr>
 <hr>
 
-## **<span style="color: #90EE90; font-size: 1.5rem;">Artificial Intelligence</span>**  
-### **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Jagaadhep U K and Ragi Pranav</span>**
+**<span style="color: #90EE90; font-size: 1.5rem;">Artificial Intelligence</span>**  
+**<span style="color: #ADD8E6; font-size: 1rem;">Authors - Jagaadhep U K and Ragi Pranav</span>**
 
-### **<span style="color: #FF6363; font-size: 1rem;">Task 1: Supervised Learning with TensorFlow</span>**  
+**<span style="color: #FF6363; font-size: 1rem;">Task 1: Supervised Learning with TensorFlow</span>**  
 
-#### <span style="color: #ADD8E6;">Objective:</span>  
+<span style="color: #ADD8E6;">Objective:</span>  
 Build a deep learning classification model to predict heart disease risk. This task will help you understand the fundamentals of building a deep learning pipeline using TensorFlow, preprocessing data, training a model, and evaluating its performance.  
 
 Supervised learning involves training a model on labeled data, where the objective is to learn the mapping from input features to a target output. This task emphasizes the use of TensorFlow for building and training a deep learning model.  
