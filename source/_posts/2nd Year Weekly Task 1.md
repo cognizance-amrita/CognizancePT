@@ -222,7 +222,7 @@ Wine Quality Dataset (from Scikit-learn, converted to CSV).
 <hr>
 
 **<span style="color: #90EE90; font-size: 1.5rem;">Submission</span>**
-**<span style="color: #FF6363; font-size: 1rem;">Deadline - 1st January 2025, 23:59 </span>**
+**<span style="color: #FF6363; font-size: 1rem;">Deadline - 2nd January 2025, 23:59 </span>**
 
 **NOTE: Create a GitHub Repository named "Cognizance_2nd_Year_Task_1". For each domain create a separate directory namely "OS", "AI", "CYS", and "CP".  For each domain question, create a sub-directory, "Q1", and "Q2". Finally, update the relevant files in these directories and fill out the submission form by providing the links to these repos**
 
